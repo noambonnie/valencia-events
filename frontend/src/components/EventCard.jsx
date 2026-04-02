@@ -88,8 +88,7 @@ export default function EventCard({ event }) {
         {/* Sources */}
         <div style={{ display: "flex", gap: "0.5rem", flexWrap: "wrap" }}>
           {event.sources.map((source, i) => (
-            
-              key={i}
+            <a key={i}
               href={source.url}
               target="_blank"
               rel="noopener noreferrer"
