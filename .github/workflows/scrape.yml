@@ -24,8 +24,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r scraper/requirements.txt
-          playwright install chromium --with-deps
+          pip3 install -r scraper/requirements.txt
+          python3 -m playwright install chromium --with-deps
 
       - name: Run scraper
         env:
