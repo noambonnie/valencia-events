@@ -1,6 +1,6 @@
 [
   {
-    "id": 16,
+    "id": 34,
     "fingerprint": "2026-01-16__feria de atracciones__dias-nino-feria-atracciones",
     "title": "Días del Niño - Feria de Atracciones de Valencia",
     "date_start": "2026-01-16",
@@ -11,46 +11,46 @@
     "category": "festival",
     "price": "Precios populares",
     "price_value": null,
-    "description": "The Valencia Fair says goodbye with three days of popular prices for children, offering reduced rates on attractions for the final weekend.",
+    "description": "The Valencia fairground says goodbye with three days of popular prices during Children's Days, offering reduced rates on attractions.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 18,
+    "id": 36,
     "fingerprint": "2026-01-16__calle sagunto__porrat-bendicion-animales-calle",
-    "title": "Porrat y Bendición de Animales - Calle Sagunto",
+    "title": "Porrat y Bendición de Animales Calle Sagunto - Sant Antoni del Porquet",
     "date_start": "2026-01-16",
     "date_end": "2026-01-18",
     "time_start": null,
     "location": "Calle Sagunto",
-    "district": "Sagunto (calle)",
+    "district": "Sagunto",
     "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "Traditional Sant Antoni festival on Sagunto street featuring a porrat market and blessing of animals for the patron saint of animals.",
+    "description": "Traditional street market and animal blessing celebration for Sant Antoni del Porquet on Sagunto street in Valencia.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 19,
+    "id": 37,
     "fingerprint": "2026-01-16__calles sant bertomeu__porrat-rotova-festa-sant",
-    "title": "Porrat de Ròtova - Festa de Sant Antoni 2026",
+    "title": "Porrat de Ròtova - Festa de Sant Antoni",
     "date_start": "2026-01-16",
     "date_end": "2026-01-18",
     "time_start": null,
@@ -65,14 +65,14 @@
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 20,
+    "id": 38,
     "fingerprint": "2026-01-16__canals__fiestas-sant-antoni-abat",
     "title": "Fiestas de Sant Antoni Abat 2026 de Canals",
     "date_start": "2026-01-16",
@@ -83,20 +83,20 @@
     "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "Major Sant Antoni festival in Canals featuring Spain's tallest bonfire, with the main events taking place this weekend.",
+    "description": "Main events of the great Sant Antoni festival in Canals, featuring Spain's tallest bonfire, which once held the Guinness World Record.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 21,
+    "id": 39,
     "fingerprint": "2026-01-16__casco historico de c__xxix-festival-narrativa-oral",
     "title": "XXIX Festival de Narrativa Oral de San Antón - Cuentantón de Chelva",
     "date_start": "2026-01-16",
@@ -107,22 +107,22 @@
     "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "29th Oral Narrative Festival recognized as a Provincial Tourist Interest Festival, featuring storytelling around bonfires in Chelva's historic center.",
+    "description": "Storytelling festival declared a Festival of Provincial Tourist Interest, where locals and visitors share stories around bonfires in Chelva's historic center.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 23,
+    "id": 41,
     "fingerprint": "2026-01-16__centro cultural mari__exposicion-20-anys-foc",
-    "title": "Exposición 20 anys de foc - La Diabòlica de Morvedre",
+    "title": "Exposición '20 anys de foc' - La Diabòlica de Morvedre",
     "date_start": "2026-01-16",
     "date_end": "2026-01-30",
     "time_start": "17:00",
@@ -131,68 +131,92 @@
     "category": "exhibition",
     "price": null,
     "price_value": null,
-    "description": "Retrospective exhibition celebrating 20 years of fire and festive culture of La Diabòlica de Morvedre association.",
+    "description": "Retrospective exhibition celebrating 20 years of fire and festive culture by La Diabòlica de Morvedre association.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 24,
-    "fingerprint": "2026-01-16__plaza mayor sagunto__fiestas-sant-antoni-sagunto",
-    "title": "Fiestas de Sant Antoni en Sagunto - Montaje de Hoguera y Ronda",
+    "id": 42,
+    "fingerprint": "2026-01-16__plaza mayor sagunto__ronda-sant-antoni-sagunto",
+    "title": "Ronda de Sant Antoni - Sagunto",
     "date_start": "2026-01-16",
     "date_end": null,
-    "time_start": "18:00",
+    "time_start": "20:00",
     "location": "Plaza Mayor, Sagunto",
     "district": null,
     "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "Assembly of the traditional bonfire at 18:00 followed by the Sant Antoni Ronda at 20:00 in Sagunto's main square.",
+    "description": "Traditional Sant Antoni round in Sagunto, preceded by bonfire assembly at 18:00.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 30,
-    "fingerprint": "2026-01-16__parroquia a zona de __sant-antoni-abat-turis",
-    "title": "Sant Antoni Abat - Turís - Traslado de imagen",
+    "id": 48,
+    "fingerprint": "2026-01-16__parroquia de turis__fiesta-sant-antoni-abat",
+    "title": "Fiesta de Sant Antoni Abat - Turís - Traslado de la imagen",
     "date_start": "2026-01-16",
     "date_end": null,
     "time_start": "18:30",
-    "location": "Parroquia a zona de los pinos, Turís",
+    "location": "Parroquia de Turís",
     "district": null,
     "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "Transfer of the saint's image by First Communion children, followed by pine tree entrance to Plaza de la Constitución at 19:00.",
+    "description": "Children making their First Communion carry the image of Sant Antoni from the parish to the pine area near the Health Center.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 22,
+    "id": 49,
+    "fingerprint": "2026-01-16__plaza de la constitu__entrada-pinos-sant-antoni",
+    "title": "Entrada de Pinos - Sant Antoni Turís",
+    "date_start": "2026-01-16",
+    "date_end": null,
+    "time_start": "19:00",
+    "location": "Plaza de la Constitución, Turís",
+    "district": null,
+    "category": "festival",
+    "price": null,
+    "price_value": null,
+    "description": "Pine tree procession to Plaza de la Constitución, presided over by Sant Antoni, as part of the traditional festivities.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Valencia Bonita",
+        "url": "https://valenciabonita.es/agenda-valencia/",
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
+  },
+  {
+    "id": 40,
     "fingerprint": "2026-01-17__centro urbano de lor__mercado-medieval-loriguilla",
     "title": "Mercado Medieval de Loriguilla",
     "date_start": "2026-01-17",
@@ -203,20 +227,20 @@
     "category": "market",
     "price": null,
     "price_value": null,
-    "description": "Medieval market transforming Loriguilla into an authentic medieval setting with period characters, music, exhibitions, traditional craft workshops and children's attractions.",
+    "description": "Medieval market organized by La Fragua de Vulcano featuring period characters, music, thematic exhibitions, traditional craft workshops, and children's attractions.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 25,
+    "id": 43,
     "fingerprint": "2026-01-17__plaza cronista chabr__talleres-mascaras-bengalas-sant",
     "title": "Talleres de máscaras y bengalas - Sant Antoni Sagunto",
     "date_start": "2026-01-17",
@@ -227,20 +251,20 @@
     "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "Children's workshops for making masks and sparklers as part of Sant Antoni celebrations in Sagunto.",
+    "description": "Mask and sparkler workshops for children as part of Sant Antoni celebrations in Sagunto.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 26,
+    "id": 44,
     "fingerprint": "2026-01-17__plaza cronista chabr__muestra-danzas-tradicionales-sant",
     "title": "Muestra de Danzas Tradicionales - Sant Antoni Sagunto",
     "date_start": "2026-01-17",
@@ -257,14 +281,14 @@
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 27,
+    "id": 45,
     "fingerprint": "2026-01-17__plaza cronista chabr__concierto-why-not-dj",
     "title": "Concierto Why Not? y DJ Session - Sant Antoni Sagunto",
     "date_start": "2026-01-17",
@@ -275,22 +299,22 @@
     "category": "concert",
     "price": null,
     "price_value": null,
-    "description": "Afternoon concert by the group Why Not? followed by a DJ session as part of Sant Antoni celebrations.",
+    "description": "Concert by the band Why Not? followed by a DJ session as part of Sant Antoni festivities in Sagunto.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 28,
-    "fingerprint": "2026-01-17__plaza dels furs  cal__correfoc-quema-hoguera-sant",
-    "title": "Correfoc y Quema de Hoguera - Sant Antoni Sagunto",
+    "id": 46,
+    "fingerprint": "2026-01-17__plaza dels furs  cal__correfoc-crema-hoguera-sant",
+    "title": "Correfoc y Cremà de la Hoguera - Sant Antoni Sagunto",
     "date_start": "2026-01-17",
     "date_end": null,
     "time_start": "19:30",
@@ -299,20 +323,20 @@
     "category": "fireworks",
     "price": null,
     "price_value": null,
-    "description": "Fire run starting from two points and ending at Plaza Mayor with the burning of the bonfire accompanied by the Campaners de Morvedre bell ringers.",
+    "description": "Fire run starting from two points and ending at Plaza Mayor with the burning of the bonfire, accompanied by the Campaners de Morvedre bell ringers.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 29,
+    "id": 47,
     "fingerprint": "2026-01-17__sagunto__conciertos-15-watts-fulla",
     "title": "Conciertos 15 Watts y La Fulla - Sant Antoni Sagunto",
     "date_start": "2026-01-17",
@@ -323,44 +347,44 @@
     "category": "concert",
     "price": null,
     "price_value": null,
-    "description": "Valencian language concerts by 15 Watts and La Fulla closing the Sant Antoni celebrations in Sagunto.",
+    "description": "Valencian language concerts by bands 15 Watts and La Fulla, combining tradition, fire and contemporary music.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 31,
-    "fingerprint": "2026-01-17__plaza de la constitu__sant-antoni-abat-turis",
-    "title": "Sant Antoni Abat - Turís - Cremà de la hoguera",
+    "id": 50,
+    "fingerprint": "2026-01-17__plaza de la constitu__crema-hoguera-sant-antoni",
+    "title": "Cremà de la Hoguera - Sant Antoni Turís",
     "date_start": "2026-01-17",
     "date_end": null,
     "time_start": "20:00",
     "location": "Plaza de la Constitución, Turís",
     "district": null,
-    "category": "fireworks",
+    "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "Burning of the bonfire led by the Festival Queen Diana Vicente Palmero and her court of honor, preceded by a procession at 19:30.",
+    "description": "Bonfire burning ceremony led by the Regina of the Fiestas, Diana Vicente Palmero, and her court of honor.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 17,
+    "id": 35,
     "fingerprint": "2026-01-18__mercado de la valvan__flea-market-valencia-mercado",
     "title": "Flea Market Valencia - Mercado de Segunda Mano Todo a 1 Euro",
     "date_start": "2026-01-18",
@@ -369,24 +393,24 @@
     "location": "Mercado de la Valvanera, Plaza de Santiago Suárez",
     "district": "La Creu Coberta",
     "category": "market",
-    "price": "Gratis",
-    "price_value": 0.0,
-    "description": "Valencia's largest second-hand market opens 2026 with a special edition focused on responsible consumption, with everything priced at just 1 euro.",
+    "price": "€1",
+    "price_value": 1.0,
+    "description": "Valencia's largest and most original second-hand market kicks off 2026 with a special edition focused on responsible consumption, with everything priced at just 1 euro.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 32,
-    "fingerprint": "2026-01-18__turis__sant-antoni-abat-turis",
-    "title": "Sant Antoni Abat - Turís - Misa y Bendición de Animales",
+    "id": 51,
+    "fingerprint": "2026-01-18__turis__misa-bendicion-rosquillas-sant",
+    "title": "Misa y Bendición de Rosquillas - Sant Antoni Turís",
     "date_start": "2026-01-18",
     "date_end": null,
     "time_start": "11:00",
@@ -395,20 +419,44 @@
     "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "Mass in honor of Sant Antoni Abat with blessing of rosquillas, followed at 12:00 by romería and animal blessing.",
+    "description": "Mass in honor of Sant Antoni Abat followed by the blessing of traditional rosquillas (ring-shaped pastries).",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
   },
   {
-    "id": 33,
+    "id": 52,
+    "fingerprint": "2026-01-18__turis__romeria-bendicion-animales-sant",
+    "title": "Romería y Bendición de Animales - Sant Antoni Turís",
+    "date_start": "2026-01-18",
+    "date_end": null,
+    "time_start": "12:00",
+    "location": "Turís",
+    "district": null,
+    "category": "festival",
+    "price": null,
+    "price_value": null,
+    "description": "Pilgrimage of Sant Antoni with animal blessing and distribution of rosquillas, featuring pets, carts and horses.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Valencia Bonita",
+        "url": "https://valenciabonita.es/agenda-valencia/",
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
+  },
+  {
+    "id": 53,
     "fingerprint": "2026-01-18__plaza vicent ribes t__paella-gigante-sant-antoni",
     "title": "Paella Gigante - Sant Antoni Turís",
     "date_start": "2026-01-18",
@@ -419,16 +467,496 @@
     "category": "festival",
     "price": "€2",
     "price_value": 2.0,
-    "description": "Giant paella community meal in collaboration with Caixaturís. Tickets available at the town hall for 2 euros.",
+    "description": "Giant paella gathering in collaboration with Caixaturís. Tickets available at the town hall for 2 euros.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+        "scraped_at": "2026-04-02T22:39:43.770796+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:36:01.605558+00:00",
-    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+    "first_seen": "2026-04-02T22:39:43.770796+00:00",
+    "last_updated": "2026-04-02T22:39:43.770796+00:00"
+  },
+  {
+    "id": 66,
+    "fingerprint": "2026-04-02__centro cultural rein__cc-reina-121-programacion",
+    "title": "CC Reina 121 - Programación de abril a junio",
+    "date_start": "2026-04-02",
+    "date_end": "2026-06-29",
+    "time_start": null,
+    "location": "Centro Cultural Reina 121",
+    "district": null,
+    "category": "other",
+    "price": null,
+    "price_value": null,
+    "description": "Cultural programming at Centro Cultural Reina 121 from April through June.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 67,
+    "fingerprint": "2026-04-02__centro cultural alqu__cc-alqueria-dalbors-programacion",
+    "title": "CC Alqueria d'Albors - Programación de abril",
+    "date_start": "2026-04-02",
+    "date_end": "2026-04-29",
+    "time_start": null,
+    "location": "Centro Cultural Alqueria d'Albors",
+    "district": null,
+    "category": "film",
+    "price": null,
+    "price_value": null,
+    "description": "April programming including cinema at Centro Cultural Alqueria d'Albors.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 68,
+    "fingerprint": "2026-04-02__bibliotecas municipa__bibliotecas-municipales-programacion-abril",
+    "title": "Bibliotecas Municipales: programación de abril",
+    "date_start": "2026-04-02",
+    "date_end": "2026-04-29",
+    "time_start": null,
+    "location": "Bibliotecas Municipales",
+    "district": null,
+    "category": "other",
+    "price": null,
+    "price_value": null,
+    "description": "April activities and events at Valencia's municipal libraries.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 69,
+    "fingerprint": "2026-04-02__centros culturales m__centros-culturales-municipales",
+    "title": "CENTROS CULTURALES MUNICIPALES",
+    "date_start": "2026-04-02",
+    "date_end": "2026-12-30",
+    "time_start": null,
+    "location": "Centros Culturales Municipales",
+    "district": null,
+    "category": "other",
+    "price": null,
+    "price_value": null,
+    "description": "Year-round programming at Valencia's municipal cultural centers.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 70,
+    "fingerprint": "2026-04-02__palau de la musica__palau-musica-programacion-abril",
+    "title": "Palau de la Música - Programación de abril",
+    "date_start": "2026-04-02",
+    "date_end": "2026-04-29",
+    "time_start": null,
+    "location": "Palau de la Música",
+    "district": "Pla del Real",
+    "category": "concert",
+    "price": null,
+    "price_value": null,
+    "description": "April concert programming at Valencia's Palau de la Música concert hall.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 71,
+    "fingerprint": "2026-04-02__centro cultural esco__cc-escorxador-programacion-primavera",
+    "title": "CC Escorxador - Programación de primavera",
+    "date_start": "2026-04-02",
+    "date_end": "2026-06-29",
+    "time_start": null,
+    "location": "Centro Cultural Escorxador",
+    "district": null,
+    "category": "other",
+    "price": null,
+    "price_value": null,
+    "description": "Spring programming at Centro Cultural Escorxador.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 72,
+    "fingerprint": "2026-04-02__centro cultural aben__cc-aben-alabbar-programacion",
+    "title": "CC Aben Al-Abbar: programación semanal",
+    "date_start": "2026-04-02",
+    "date_end": "2026-04-04",
+    "time_start": null,
+    "location": "Centro Cultural Aben Al-Abbar",
+    "district": null,
+    "category": "film",
+    "price": null,
+    "price_value": null,
+    "description": "Weekly programming including cinema at Centro Cultural Aben Al-Abbar.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 73,
+    "fingerprint": "2026-04-02__unknown__feria-artesania-primavera-2026",
+    "title": "Feria de Artesanía de Primavera 2026",
+    "date_start": "2026-04-02",
+    "date_end": "2026-04-11",
+    "time_start": null,
+    "location": null,
+    "district": null,
+    "category": "market",
+    "price": null,
+    "price_value": null,
+    "description": "Spring artisan fair showcasing local crafts and handmade products.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 65,
+    "fingerprint": "2026-04-04__jardi del turia__pascua-jardi-turia-rutas",
+    "title": "Pascua en el Jardí del Túria - Rutas guiadas familiares",
+    "date_start": "2026-04-04",
+    "date_end": "2026-04-09",
+    "time_start": null,
+    "location": "Jardí del Túria",
+    "district": null,
+    "category": "guided_tour",
+    "price": null,
+    "price_value": null,
+    "description": "Family-friendly guided tours through the Turia Gardens during Easter.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 63,
+    "fingerprint": "2026-04-06__unknown__pasqua-diveractiva-2026",
+    "title": "Pasqua DiverActiva 2026",
+    "date_start": "2026-04-06",
+    "date_end": "2026-04-10",
+    "time_start": null,
+    "location": null,
+    "district": null,
+    "category": "other",
+    "price": null,
+    "price_value": null,
+    "description": "Easter holiday workshops and activities for children.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 64,
+    "fingerprint": "2026-04-06__unknown__festividad-san-vicente-ferrer",
+    "title": "FESTIVIDAD DE SAN VICENTE FERRER 2026",
+    "date_start": "2026-04-06",
+    "date_end": "2026-04-12",
+    "time_start": null,
+    "location": null,
+    "district": null,
+    "category": "festival",
+    "price": null,
+    "price_value": null,
+    "description": "Traditional celebration honoring Valencia's patron saint with miracles performances and processions.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 62,
+    "fingerprint": "2026-04-07__ajuntament de valenc__visitas-guiadas-ajuntament-valencia",
+    "title": "Visitas guiadas al Ajuntament de València",
+    "date_start": "2026-04-07",
+    "date_end": "2026-04-09",
+    "time_start": null,
+    "location": "Ajuntament de València",
+    "district": "Ciutat Vella",
+    "category": "guided_tour",
+    "price": null,
+    "price_value": null,
+    "description": "Guided tours of Valencia's historic City Hall building.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 61,
+    "fingerprint": "2026-04-08__unknown__valencia-cuina-oberta-primavera",
+    "title": "VALÈNCIA CUINA OBERTA PRIMAVERA 2026",
+    "date_start": "2026-04-08",
+    "date_end": "2026-04-18",
+    "time_start": null,
+    "location": null,
+    "district": null,
+    "category": "festival",
+    "price": null,
+    "price_value": null,
+    "description": "Spring gastronomy festival where restaurants offer special tasting menus at fixed prices.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 60,
+    "fingerprint": "2026-04-10__unknown__fuentes-ornamentales-e-historicas",
+    "title": "Fuentes ornamentales e históricas - Rutas guiadas",
+    "date_start": "2026-04-10",
+    "date_end": "2026-06-04",
+    "time_start": null,
+    "location": null,
+    "district": null,
+    "category": "guided_tour",
+    "price": null,
+    "price_value": null,
+    "description": "Guided tours exploring Valencia's ornamental and historic fountains.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 59,
+    "fingerprint": "2026-04-11__unknown__festival-cometas-valencia-2026",
+    "title": "Festival de Cometas de València 2026",
+    "date_start": "2026-04-11",
+    "date_end": null,
+    "time_start": null,
+    "location": null,
+    "district": null,
+    "category": "festival",
+    "price": null,
+    "price_value": null,
+    "description": "Valencia's kite festival with colorful displays and family-friendly activities.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 58,
+    "fingerprint": "2026-04-14__unknown__dia-internacional-nino-nina",
+    "title": "Día Internacional del niño y la niña 2026",
+    "date_start": "2026-04-14",
+    "date_end": null,
+    "time_start": null,
+    "location": null,
+    "district": null,
+    "category": "other",
+    "price": null,
+    "price_value": null,
+    "description": "International Children's Day celebration with activities and events for kids.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 57,
+    "fingerprint": "2026-04-16__unknown__fiestas-cruz-2026",
+    "title": "FIESTAS DE LA CRUZ 2026",
+    "date_start": "2026-04-16",
+    "date_end": "2026-05-02",
+    "time_start": null,
+    "location": null,
+    "district": null,
+    "category": "festival",
+    "price": null,
+    "price_value": null,
+    "description": "Traditional festivities celebrating the Cross with street decorations and cultural events.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 56,
+    "fingerprint": "2026-04-24__unknown__talleres-infantiles-dissabtes-diveractius",
+    "title": "Talleres Infantiles 'Dissabtes DiverActius'",
+    "date_start": "2026-04-24",
+    "date_end": null,
+    "time_start": null,
+    "location": null,
+    "district": null,
+    "category": "other",
+    "price": null,
+    "price_value": null,
+    "description": "Children's workshops offering fun and educational Saturday activities for kids.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 55,
+    "fingerprint": "2026-04-29__unknown__61ª-feria-libro-valencia",
+    "title": "61ª Feria del Libro de València",
+    "date_start": "2026-04-29",
+    "date_end": "2026-05-09",
+    "time_start": null,
+    "location": null,
+    "district": null,
+    "category": "market",
+    "price": null,
+    "price_value": null,
+    "description": "The 61st Valencia Book Fair featuring publishers, authors, and literary activities.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
+  },
+  {
+    "id": 54,
+    "fingerprint": "2026-07-01__jardines de viveros__conciertos-viveros-gran-feria",
+    "title": "Conciertos de Viveros - Gran Feria de València 2026",
+    "date_start": "2026-07-01",
+    "date_end": "2026-07-24",
+    "time_start": null,
+    "location": "Jardines de Viveros",
+    "district": "Pla del Real",
+    "category": "concert",
+    "price": null,
+    "price_value": null,
+    "description": "Summer concert series at Viveros Gardens as part of Valencia's Gran Feria festivities.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Visit València",
+        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:40:25.215608+00:00",
+    "last_updated": "2026-04-02T22:40:25.215608+00:00"
   }
 ]
