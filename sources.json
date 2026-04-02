@@ -2,7 +2,7 @@
   {
     "id": "valencia_es",
     "name": "Ajuntament de València",
-    "url": "https://www.valencia.es/cas/agenda",
+    "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
     "type": "html",
     "language": "es",
     "enabled": true,
