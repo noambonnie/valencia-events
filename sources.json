@@ -1,0 +1,38 @@
+[
+  {
+    "id": "valencia_es",
+    "name": "Ajuntament de València",
+    "url": "https://www.valencia.es/cas/agenda",
+    "type": "html",
+    "language": "es",
+    "enabled": true,
+    "notes": "Official city agenda"
+  },
+  {
+    "id": "valenciabonita",
+    "name": "Valencia Bonita",
+    "url": "https://valenciabonita.es/agenda-valencia/",
+    "type": "html",
+    "language": "es",
+    "enabled": true,
+    "notes": "Good coverage of bars, markets, guided tours"
+  },
+  {
+    "id": "visit_valencia",
+    "name": "Visit València",
+    "url": "https://www.visitvalencia.com/agenda",
+    "type": "js",
+    "language": "es",
+    "enabled": true,
+    "notes": "Tourism board, museums and guided tours"
+  },
+  {
+    "id": "la_guia_del_ocio",
+    "name": "La Guía del Ocio Valencia",
+    "url": "https://valencia.laguiadelocio.com/agenda",
+    "type": "html",
+    "language": "es",
+    "enabled": true,
+    "notes": "Films, concerts, theatre"
+  }
+]
