@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 16,
     "fingerprint": "2026-01-16__feria de atracciones__dias-nino-feria-atracciones",
     "title": "Días del Niño - Feria de Atracciones de Valencia",
     "date_start": "2026-01-16",
@@ -11,46 +11,46 @@
     "category": "festival",
     "price": "Precios populares",
     "price_value": null,
-    "description": "The Valencia Funfair says goodbye with three days of popular prices during Children's Days, offering reduced rates on all attractions.",
+    "description": "The Valencia Fair says goodbye with three days of popular prices for children, offering reduced rates on attractions for the final weekend.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:33:34.604996+00:00"
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:33:34.604996+00:00",
-    "last_updated": "2026-04-02T22:33:34.604996+00:00"
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
   },
   {
-    "id": 3,
+    "id": 18,
     "fingerprint": "2026-01-16__calle sagunto__porrat-bendicion-animales-calle",
     "title": "Porrat y Bendición de Animales - Calle Sagunto",
     "date_start": "2026-01-16",
     "date_end": "2026-01-18",
     "time_start": null,
     "location": "Calle Sagunto",
-    "district": "Sagunto (Valencia city)",
+    "district": "Sagunto (calle)",
     "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "Traditional Sant Antoni del Porquet celebration featuring a street market and blessing of animals on Sagunto street in Valencia.",
+    "description": "Traditional Sant Antoni festival on Sagunto street featuring a porrat market and blessing of animals for the patron saint of animals.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:33:34.604996+00:00"
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:33:34.604996+00:00",
-    "last_updated": "2026-04-02T22:33:34.604996+00:00"
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
   },
   {
-    "id": 4,
+    "id": 19,
     "fingerprint": "2026-01-16__calles sant bertomeu__porrat-rotova-festa-sant",
-    "title": "Porrat de Ròtova - Festa de Sant Antoni",
+    "title": "Porrat de Ròtova - Festa de Sant Antoni 2026",
     "date_start": "2026-01-16",
     "date_end": "2026-01-18",
     "time_start": null,
@@ -59,22 +59,22 @@
     "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "Annual Sant Antoni festival in Ròtova featuring bonfires, parades, magic shows, music, animal blessing and procession with La Rotovense Musical band.",
+    "description": "One of the most anticipated festivals in Ròtova featuring bonfires, parades, magic, music, animal blessing and procession in honor of Sant Antoni Abat.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:33:34.604996+00:00"
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:33:34.604996+00:00",
-    "last_updated": "2026-04-02T22:33:34.604996+00:00"
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
   },
   {
-    "id": 5,
+    "id": 20,
     "fingerprint": "2026-01-16__canals__fiestas-sant-antoni-abat",
-    "title": "Fiestas de Sant Antoni Abat de Canals",
+    "title": "Fiestas de Sant Antoni Abat 2026 de Canals",
     "date_start": "2026-01-16",
     "date_end": "2026-01-18",
     "time_start": null,
@@ -83,20 +83,20 @@
     "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "Major Sant Antoni festival in Canals featuring Spain's tallest bonfire, with main events taking place this weekend.",
+    "description": "Major Sant Antoni festival in Canals featuring Spain's tallest bonfire, with the main events taking place this weekend.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:33:34.604996+00:00"
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:33:34.604996+00:00",
-    "last_updated": "2026-04-02T22:33:34.604996+00:00"
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
   },
   {
-    "id": 6,
+    "id": 21,
     "fingerprint": "2026-01-16__casco historico de c__xxix-festival-narrativa-oral",
     "title": "XXIX Festival de Narrativa Oral de San Antón - Cuentantón de Chelva",
     "date_start": "2026-01-16",
@@ -107,44 +107,20 @@
     "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "29th edition of the storytelling festival recognized as a Provincial Tourist Interest celebration, featuring tales shared around bonfires in the historic center.",
+    "description": "29th Oral Narrative Festival recognized as a Provincial Tourist Interest Festival, featuring storytelling around bonfires in Chelva's historic center.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:33:34.604996+00:00"
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:33:34.604996+00:00",
-    "last_updated": "2026-04-02T22:33:34.604996+00:00"
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
   },
   {
-    "id": 8,
-    "fingerprint": "2026-01-16__sagunto__sant-antoni-sagunto-20",
-    "title": "Sant Antoni en Sagunto - 20 Aniversario La Diabòlica de Morvedre",
-    "date_start": "2026-01-16",
-    "date_end": "2026-01-17",
-    "time_start": null,
-    "location": "Sagunto",
-    "district": null,
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Special 20th anniversary Sant Antoni celebration featuring exhibitions, bonfire, traditional dances, correfoc fire run, and concerts by 15 Watts and La Fulla.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:33:34.604996+00:00"
-      }
-    ],
-    "first_seen": "2026-04-02T22:33:34.604996+00:00",
-    "last_updated": "2026-04-02T22:33:34.604996+00:00"
-  },
-  {
-    "id": 9,
+    "id": 23,
     "fingerprint": "2026-01-16__centro cultural mari__exposicion-20-anys-foc",
     "title": "Exposición 20 anys de foc - La Diabòlica de Morvedre",
     "date_start": "2026-01-16",
@@ -155,44 +131,68 @@
     "category": "exhibition",
     "price": null,
     "price_value": null,
-    "description": "Retrospective exhibition celebrating 20 years of fire and festive culture by La Diabòlica de Morvedre association.",
+    "description": "Retrospective exhibition celebrating 20 years of fire and festive culture of La Diabòlica de Morvedre association.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:33:34.604996+00:00"
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:33:34.604996+00:00",
-    "last_updated": "2026-04-02T22:33:34.604996+00:00"
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
   },
   {
-    "id": 12,
-    "fingerprint": "2026-01-16__turis__fiesta-sant-antoni-abat",
-    "title": "Fiesta de Sant Antoni Abat - Turís",
+    "id": 24,
+    "fingerprint": "2026-01-16__plaza mayor sagunto__fiestas-sant-antoni-sagunto",
+    "title": "Fiestas de Sant Antoni en Sagunto - Montaje de Hoguera y Ronda",
     "date_start": "2026-01-16",
-    "date_end": "2026-01-18",
-    "time_start": null,
-    "location": "Turís",
+    "date_end": null,
+    "time_start": "18:00",
+    "location": "Plaza Mayor, Sagunto",
     "district": null,
     "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "Traditional Sant Antoni Abat celebration in Turís featuring saint's image procession, bonfire burning, mass, animal blessing and giant paella.",
+    "description": "Assembly of the traditional bonfire at 18:00 followed by the Sant Antoni Ronda at 20:00 in Sagunto's main square.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:33:34.604996+00:00"
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:33:34.604996+00:00",
-    "last_updated": "2026-04-02T22:33:34.604996+00:00"
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
   },
   {
-    "id": 7,
+    "id": 30,
+    "fingerprint": "2026-01-16__parroquia a zona de __sant-antoni-abat-turis",
+    "title": "Sant Antoni Abat - Turís - Traslado de imagen",
+    "date_start": "2026-01-16",
+    "date_end": null,
+    "time_start": "18:30",
+    "location": "Parroquia a zona de los pinos, Turís",
+    "district": null,
+    "category": "festival",
+    "price": null,
+    "price_value": null,
+    "description": "Transfer of the saint's image by First Communion children, followed by pine tree entrance to Plaza de la Constitución at 19:00.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Valencia Bonita",
+        "url": "https://valenciabonita.es/agenda-valencia/",
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+  },
+  {
+    "id": 22,
     "fingerprint": "2026-01-17__centro urbano de lor__mercado-medieval-loriguilla",
     "title": "Mercado Medieval de Loriguilla",
     "date_start": "2026-01-17",
@@ -203,44 +203,116 @@
     "category": "market",
     "price": null,
     "price_value": null,
-    "description": "Medieval market transforming Loriguilla's town center with period entertainment, music, themed exhibitions, traditional craft workshops and children's activities.",
+    "description": "Medieval market transforming Loriguilla into an authentic medieval setting with period characters, music, exhibitions, traditional craft workshops and children's attractions.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:33:34.604996+00:00"
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:33:34.604996+00:00",
-    "last_updated": "2026-04-02T22:33:34.604996+00:00"
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
   },
   {
-    "id": 10,
-    "fingerprint": "2026-01-17__plaza mayor sagunto__correfoc-quema-hoguera-sant",
+    "id": 25,
+    "fingerprint": "2026-01-17__plaza cronista chabr__talleres-mascaras-bengalas-sant",
+    "title": "Talleres de máscaras y bengalas - Sant Antoni Sagunto",
+    "date_start": "2026-01-17",
+    "date_end": null,
+    "time_start": "11:00",
+    "location": "Plaza Cronista Chabret, Sagunto",
+    "district": null,
+    "category": "festival",
+    "price": null,
+    "price_value": null,
+    "description": "Children's workshops for making masks and sparklers as part of Sant Antoni celebrations in Sagunto.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Valencia Bonita",
+        "url": "https://valenciabonita.es/agenda-valencia/",
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+  },
+  {
+    "id": 26,
+    "fingerprint": "2026-01-17__plaza cronista chabr__muestra-danzas-tradicionales-sant",
+    "title": "Muestra de Danzas Tradicionales - Sant Antoni Sagunto",
+    "date_start": "2026-01-17",
+    "date_end": null,
+    "time_start": "12:00",
+    "location": "Plaza Cronista Chabret, Sagunto",
+    "district": null,
+    "category": "festival",
+    "price": null,
+    "price_value": null,
+    "description": "Traditional dance showcase featuring Ball de Bastons de l'Agrupa de Cornellà, Muixeranga del Carraixet and Grup de Danses de Morvedre.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Valencia Bonita",
+        "url": "https://valenciabonita.es/agenda-valencia/",
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+  },
+  {
+    "id": 27,
+    "fingerprint": "2026-01-17__plaza cronista chabr__concierto-why-not-dj",
+    "title": "Concierto Why Not? y DJ Session - Sant Antoni Sagunto",
+    "date_start": "2026-01-17",
+    "date_end": null,
+    "time_start": "16:00",
+    "location": "Plaza Cronista Chabret, Sagunto",
+    "district": null,
+    "category": "concert",
+    "price": null,
+    "price_value": null,
+    "description": "Afternoon concert by the group Why Not? followed by a DJ session as part of Sant Antoni celebrations.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Valencia Bonita",
+        "url": "https://valenciabonita.es/agenda-valencia/",
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+  },
+  {
+    "id": 28,
+    "fingerprint": "2026-01-17__plaza dels furs  cal__correfoc-quema-hoguera-sant",
     "title": "Correfoc y Quema de Hoguera - Sant Antoni Sagunto",
     "date_start": "2026-01-17",
     "date_end": null,
     "time_start": "19:30",
-    "location": "Plaza Mayor, Sagunto",
+    "location": "Plaza dels Furs / Calle Camí Reial to Plaza Mayor, Sagunto",
     "district": null,
     "category": "fireworks",
     "price": null,
     "price_value": null,
-    "description": "Traditional fire run starting from Plaza dels Furs and Camí Reial, culminating with bonfire burning at Plaza Mayor accompanied by Campaners de Morvedre.",
+    "description": "Fire run starting from two points and ending at Plaza Mayor with the burning of the bonfire accompanied by the Campaners de Morvedre bell ringers.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:33:34.604996+00:00"
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:33:34.604996+00:00",
-    "last_updated": "2026-04-02T22:33:34.604996+00:00"
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
   },
   {
-    "id": 11,
+    "id": 29,
     "fingerprint": "2026-01-17__sagunto__conciertos-15-watts-fulla",
     "title": "Conciertos 15 Watts y La Fulla - Sant Antoni Sagunto",
     "date_start": "2026-01-17",
@@ -251,44 +323,44 @@
     "category": "concert",
     "price": null,
     "price_value": null,
-    "description": "Valencian language concerts by bands 15 Watts and La Fulla as part of Sant Antoni celebrations in Sagunto.",
+    "description": "Valencian language concerts by 15 Watts and La Fulla closing the Sant Antoni celebrations in Sagunto.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:33:34.604996+00:00"
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:33:34.604996+00:00",
-    "last_updated": "2026-04-02T22:33:34.604996+00:00"
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
   },
   {
-    "id": 13,
-    "fingerprint": "2026-01-17__turis__crema-hoguera-sant-antoni",
-    "title": "Cremà de la Hoguera - Sant Antoni Turís",
+    "id": 31,
+    "fingerprint": "2026-01-17__plaza de la constitu__sant-antoni-abat-turis",
+    "title": "Sant Antoni Abat - Turís - Cremà de la hoguera",
     "date_start": "2026-01-17",
     "date_end": null,
     "time_start": "20:00",
-    "location": "Turís",
+    "location": "Plaza de la Constitución, Turís",
     "district": null,
     "category": "fireworks",
     "price": null,
     "price_value": null,
-    "description": "Traditional bonfire burning ceremony led by the Fiestas Queen Diana Vicente Palmero and her court of honor.",
+    "description": "Burning of the bonfire led by the Festival Queen Diana Vicente Palmero and her court of honor, preceded by a procession at 19:30.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:33:34.604996+00:00"
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:33:34.604996+00:00",
-    "last_updated": "2026-04-02T22:33:34.604996+00:00"
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
   },
   {
-    "id": 2,
+    "id": 17,
     "fingerprint": "2026-01-18__mercado de la valvan__flea-market-valencia-mercado",
     "title": "Flea Market Valencia - Mercado de Segunda Mano Todo a 1 Euro",
     "date_start": "2026-01-18",
@@ -299,20 +371,44 @@
     "category": "market",
     "price": "Gratis",
     "price_value": 0.0,
-    "description": "Valencia's largest second-hand market kicks off 2026 with a special edition where everything costs just 1 euro, promoting responsible consumption.",
+    "description": "Valencia's largest second-hand market opens 2026 with a special edition focused on responsible consumption, with everything priced at just 1 euro.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:33:34.604996+00:00"
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:33:34.604996+00:00",
-    "last_updated": "2026-04-02T22:33:34.604996+00:00"
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
   },
   {
-    "id": 14,
+    "id": 32,
+    "fingerprint": "2026-01-18__turis__sant-antoni-abat-turis",
+    "title": "Sant Antoni Abat - Turís - Misa y Bendición de Animales",
+    "date_start": "2026-01-18",
+    "date_end": null,
+    "time_start": "11:00",
+    "location": "Turís",
+    "district": null,
+    "category": "festival",
+    "price": null,
+    "price_value": null,
+    "description": "Mass in honor of Sant Antoni Abat with blessing of rosquillas, followed at 12:00 by romería and animal blessing.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Valencia Bonita",
+        "url": "https://valenciabonita.es/agenda-valencia/",
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
+      }
+    ],
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
+  },
+  {
+    "id": 33,
     "fingerprint": "2026-01-18__plaza vicent ribes t__paella-gigante-sant-antoni",
     "title": "Paella Gigante - Sant Antoni Turís",
     "date_start": "2026-01-18",
@@ -323,40 +419,16 @@
     "category": "festival",
     "price": "€2",
     "price_value": 2.0,
-    "description": "Giant communal paella in collaboration with Caixaturís, bringing together the whole community to celebrate Sant Antoni.",
+    "description": "Giant paella community meal in collaboration with Caixaturís. Tickets available at the town hall for 2 euros.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:33:34.604996+00:00"
+        "scraped_at": "2026-04-02T22:36:01.605558+00:00"
       }
     ],
-    "first_seen": "2026-04-02T22:33:34.604996+00:00",
-    "last_updated": "2026-04-02T22:33:34.604996+00:00"
-  },
-  {
-    "id": 15,
-    "fingerprint": "2026-01-18__turis__romeria-bendicion-animales-sant",
-    "title": "Romería y Bendición de Animales - Sant Antoni Turís",
-    "date_start": "2026-01-18",
-    "date_end": null,
-    "time_start": "12:00",
-    "location": "Turís",
-    "district": null,
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional procession and animal blessing featuring Sant Antoni's image, followed by pets, carts and horses, with rosquillas distribution.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://valenciabonita.es/agenda-valencia/",
-        "scraped_at": "2026-04-02T22:33:34.604996+00:00"
-      }
-    ],
-    "first_seen": "2026-04-02T22:33:34.604996+00:00",
-    "last_updated": "2026-04-02T22:33:34.604996+00:00"
+    "first_seen": "2026-04-02T22:36:01.605558+00:00",
+    "last_updated": "2026-04-02T22:36:01.605558+00:00"
   }
 ]
