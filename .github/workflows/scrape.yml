@@ -32,7 +32,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           cd scraper
-          python main.py
+          python3 main.py
 
       - name: Commit updated DB and events.json
         run: |
