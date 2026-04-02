@@ -20,7 +20,7 @@
   {
     "id": "visit_valencia",
     "name": "Visit València",
-    "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+    "url": "https://www.visitvalencia.com/agenda",
     "type": "js",
     "language": "es",
     "enabled": true,
