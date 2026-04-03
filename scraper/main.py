@@ -23,7 +23,7 @@ def run():
     total_new = total_updated = 0
 
     for source in enabled:
-print(f"[{source['id']}] Fetching {source['url']} ...")
+        print(f"[{source['id']}] Fetching {source['url']} ...")
 
         if source.get("follow_links"):
             # Two-pass: get listing page, follow article links, extract from each
@@ -50,7 +50,7 @@ print(f"[{source['id']}] Fetching {source['url']} ...")
                 continue
             print(f"[{source['id']}] Extracting events ...")
             events = extract_events(content, source)
-            
+
         print(f"[{source['id']}] Found {len(events)} events")
 
         new = updated = 0
