@@ -9,15 +9,15 @@
     "follow_links": true,
     "notes": "Listing page — each event links to a detail page with full info"
   },
-  {
+{
     "id": "valenciabonita",
     "name": "Valencia Bonita",
-    "url": "https://valenciabonita.es/agenda-valencia/",
+    "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
     "type": "html",
     "language": "es",
     "enabled": true,
-    "follow_links": false,
-    "notes": "Full event details on listing page but includes historical events — Claude filters by date"
+    "follow_links": true,
+    "notes": "Blog format — follow recent article links to extract events from inside articles"
   },
   {
     "id": "visit_valencia",

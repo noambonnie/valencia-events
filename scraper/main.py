@@ -23,13 +23,34 @@ def run():
     total_new = total_updated = 0
 
     for source in enabled:
-        print(f"[{source['id']}] Fetching {source['url']} ...")
-        content = fetch_source(source)
-        if not content:
-            continue
+print(f"[{source['id']}] Fetching {source['url']} ...")
 
-        print(f"[{source['id']}] Extracting events ...")
-        events = extract_events(content, source)
+        if source.get("follow_links"):
+            # Two-pass: get listing page, follow article links, extract from each
+            from fetch import fetch_html, fetch_js, fetch_event_article_links, extract_main_content
+            raw_html = (fetch_js if source["type"] == "js" else fetch_html)(source["url"])
+            if not raw_html:
+                continue
+            links = fetch_event_article_links(raw_html, source["url"])
+            print(f"[{source['id']}] Following {len(links)} article links ...")
+            all_events = []
+            for link in links:
+                try:
+                    article_html = fetch_html(link)
+                    article_content = extract_main_content(article_html)
+                    found = extract_events(article_content, {**source, "url": link})
+                    print(f"  {link} → {len(found)} events")
+                    all_events.extend(found)
+                except Exception as e:
+                    print(f"  Failed {link}: {e}")
+            events = all_events
+        else:
+            content = fetch_source(source)
+            if not content:
+                continue
+            print(f"[{source['id']}] Extracting events ...")
+            events = extract_events(content, source)
+            
         print(f"[{source['id']}] Found {len(events)} events")
 
         new = updated = 0

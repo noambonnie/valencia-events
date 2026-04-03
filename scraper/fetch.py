@@ -53,22 +53,39 @@ def fetch_source(source: dict) -> str | None:
         print(f"  Failed to fetch {source['id']}: {e}")
         return None
         
-def fetch_links_from_page(html: str, base_url: str) -> list[str]:
-    """Extract all internal links that look like event detail pages."""
+def fetch_event_article_links(html: str, base_url: str) -> list[str]:
+    """
+    From a blog-style listing page, extract links that look like
+    recent event articles — identified by having a year/month in the URL
+    and being published recently.
+    """
     from urllib.parse import urljoin, urlparse
+    from datetime import date
+    import re
+
     soup = BeautifulSoup(html, "html.parser")
     base_domain = urlparse(base_url).netloc
+    current_year = date.today().year
+    last_year = current_year - 1
+
     links = []
+    seen = set()
+
     for a in soup.find_all("a", href=True):
         href = urljoin(base_url, a["href"])
-        # Only follow links on the same domain
-        if urlparse(href).netloc == base_domain and href != base_url:
+        parsed = urlparse(href)
+
+        # Same domain only
+        if parsed.netloc != base_domain:
+            continue
+        # Must look like a dated article URL e.g. /2026/04/some-article/
+        if not re.search(rf"/{current_year}/|/{last_year}/", parsed.path):
+            continue
+        # Skip category, tag, author pages
+        if any(x in parsed.path for x in ["/category/", "/tag/", "/author/", "/page/"]):
+            continue
+        if href not in seen:
+            seen.add(href)
             links.append(href)
-    # Deduplicate while preserving order
-    seen = set()
-    unique = []
-    for l in links:
-        if l not in seen:
-            seen.add(l)
-            unique.append(l)
-    return unique[:30]  # cap at 30 to avoid runaway fetching
+
+    return links[:20]  # fetch at most 20 articles per source per run
