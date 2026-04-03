@@ -6,7 +6,8 @@
     "type": "html",
     "language": "es",
     "enabled": true,
-    "notes": "Official city agenda"
+    "follow_links": true,
+    "notes": "Listing page — each event links to a detail page with full info"
   },
   {
     "id": "valenciabonita",
@@ -15,7 +16,8 @@
     "type": "html",
     "language": "es",
     "enabled": true,
-    "notes": "Good coverage of bars, markets, guided tours"
+    "follow_links": false,
+    "notes": "Full event details on listing page but includes historical events — Claude filters by date"
   },
   {
     "id": "visit_valencia",
@@ -24,6 +26,7 @@
     "type": "js",
     "language": "es",
     "enabled": true,
+    "follow_links": false,
     "notes": "Tourism board, museums and guided tours"
   },
   {
@@ -33,6 +36,7 @@
     "type": "html",
     "language": "es",
     "enabled": false,
-    "notes": "Films, concerts, theatre"
+    "follow_links": false,
+    "notes": "DNS failing, disabled pending investigation"
   }
 ]

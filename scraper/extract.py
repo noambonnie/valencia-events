@@ -4,12 +4,15 @@ from datetime import date
 
 client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from environment
 
-SYSTEM_PROMPT = """You are an event extraction assistant. 
+SYSTEM_PROMPT = """You are an event extraction assistant.
 You will be given text scraped from a Spanish events website.
-Extract all events you can find and return them as a JSON array.
+Extract ONLY events whose date_start is on or after {today}.
+Ignore any events, articles or listings from before {today} — even if they appear on the page.
+If you are unsure of the date, skip the event entirely.
 
-For each event return exactly these fields:
+For each qualifying event return exactly these fields:
 - title: string (in original language)
+- url: the specific URL of this event's detail page if you can find it in the text, otherwise null
 - date_start: ISO 8601 date string YYYY-MM-DD, or null if unknown
 - date_end: ISO 8601 date string YYYY-MM-DD, or null if single day
 - time_start: HH:MM string in 24h format, or null if unknown
@@ -22,8 +25,8 @@ For each event return exactly these fields:
 - image_url: absolute URL to event image, or null
 
 Return ONLY a valid JSON array, no explanation, no markdown fences.
-If no events are found return an empty array [].
-Today's date is {today}. Only extract events from today onwards."""
+If no qualifying events are found return an empty array [].
+Today's date is {today}."""
 
 def extract_events(content: str, source: dict) -> list[dict]:
     """Send scraped content to Claude and get back structured events."""
@@ -57,4 +60,3 @@ def extract_events(content: str, source: dict) -> list[dict]:
     except Exception as e:
         print(f"  Claude extraction error for {source['id']}: {e}")
         return []
-        

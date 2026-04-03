@@ -14,7 +14,7 @@ def run():
     print(f"\n=== Valencia Events Scraper — {datetime.now().isoformat()} ===\n")
 
     init_db()
-    delete_past_events(days_ago=1)
+    delete_past_events(days_ago=0)
 
     sources = json.loads(SOURCES_PATH.read_text())
     enabled = [s for s in sources if s.get("enabled", True)]
@@ -51,7 +51,7 @@ def run():
                 "description":   raw.get("description"),
                 "image_url":     raw.get("image_url"),
                 "sources":       [{"name": source["name"],
-                                   "url":  source["url"],
+                                   "url":  raw.get("url") or source["url"],
                                    "scraped_at": now}],
                 "first_seen":    now,
                 "last_updated":  now,

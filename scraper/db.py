@@ -78,12 +78,12 @@ def upsert_event(event: dict) -> str:
             )
             return "new"
 
-def delete_past_events(days_ago=1):
-    """Prune events that ended more than N days ago."""
+def delete_past_events(days_ago=0):
+    """Prune events that started before today."""
     cutoff = (date.today() - timedelta(days=days_ago)).isoformat()
     with get_conn() as conn:
         conn.execute(
-            "DELETE FROM events WHERE date_start < ?", (cutoff,)
+            "DELETE FROM events WHERE date_start <= ?", (cutoff,)
         )
 
 def export_to_json(path: Path):
