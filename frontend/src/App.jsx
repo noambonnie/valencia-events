@@ -1,6 +1,8 @@
 import { useState, useMemo } from "react";
 import events from "./events.json";
 import EventCard from "./components/EventCard.jsx";
+import WeekView from "./components/WeekView.jsx";
+import MonthView from "./components/MonthView.jsx";
 
 const CATEGORIES = [
   { id: "all", label: "All" },
@@ -16,14 +18,12 @@ const CATEGORIES = [
   { id: "other", label: "Other" },
 ];
 
+const VIEWS = ["List", "Week", "Month"];
+
 const styles = `
   @keyframes fadeUp {
     from { opacity: 0; transform: translateY(24px); }
     to   { opacity: 1; transform: translateY(0); }
-  }
-  @keyframes shimmer {
-    0%   { background-position: -200% center; }
-    100% { background-position:  200% center; }
   }
   .hero-title {
     font-family: 'Playfair Display', serif;
@@ -41,9 +41,7 @@ const styles = `
     color: #e8631a;
     animation: fadeUp 0.8s ease 0.1s both;
   }
-  .stat {
-    animation: fadeUp 0.8s ease 0.2s both;
-  }
+  .stat { animation: fadeUp 0.8s ease 0.2s both; }
   .search-input {
     background: rgba(255,255,255,0.05);
     border: 1px solid rgba(255,255,255,0.12);
@@ -74,14 +72,26 @@ const styles = `
     transition: all 0.18s ease;
     white-space: nowrap;
   }
-  .cat-pill:hover {
-    border-color: #e8631a;
-    color: #e8631a;
+  .cat-pill:hover { border-color: #e8631a; color: #e8631a; }
+  .cat-pill.active { background: #e8631a; border-color: #e8631a; color: #fff; }
+  .view-tab {
+    padding: 8px 20px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    background: transparent;
+    color: rgba(232,224,208,0.45);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.15s;
+    letter-spacing: 0.03em;
   }
-  .cat-pill.active {
-    background: #e8631a;
-    border-color: #e8631a;
-    color: #fff;
+  .view-tab:hover { color: rgba(232,224,208,0.8); }
+  .view-tab.active {
+    background: rgba(255,255,255,0.08);
+    border-color: rgba(255,255,255,0.15);
+    color: #e8e0d0;
   }
   .filter-select {
     background: rgba(255,255,255,0.05);
@@ -103,9 +113,7 @@ const styles = `
     letter-spacing: 0.05em;
     text-transform: uppercase;
   }
-  .event-item {
-    animation: fadeUp 0.5s ease both;
-  }
+  .event-item { animation: fadeUp 0.5s ease both; }
   .divider {
     height: 1px;
     background: linear-gradient(90deg, transparent, rgba(232,99,26,0.3), transparent);
@@ -114,6 +122,7 @@ const styles = `
 `;
 
 export default function App() {
+  const [view,     setView]     = useState("List");
   const [search,   setSearch]   = useState("");
   const [category, setCategory] = useState("all");
   const [price,    setPrice]    = useState("all");
@@ -144,8 +153,8 @@ export default function App() {
     if (dateTo)
       result = result.filter(e => e.date_start <= dateTo);
     result.sort((a, b) => {
-      if (sortBy === "date")  return (a.date_start || "").localeCompare(b.date_start || "");
-      if (sortBy === "price") return (a.price_value ?? 999) - (b.price_value ?? 999);
+      if (sortBy === "date")    return (a.date_start || "").localeCompare(b.date_start || "");
+      if (sortBy === "price")   return (a.price_value ?? 999) - (b.price_value ?? 999);
       if (sortBy === "sources") return b.sources.length - a.sources.length;
       return 0;
     });
@@ -156,7 +165,7 @@ export default function App() {
     <>
       <style>{styles}</style>
 
-      {/* Background decoration */}
+      {/* Background */}
       <div style={{
         position: "fixed", inset: 0, zIndex: 0, pointerEvents: "none",
         background: `
@@ -207,7 +216,7 @@ export default function App() {
           </div>
         </header>
 
-        {/* Filters */}
+        {/* Sticky filter bar */}
         <div style={{
           position: "sticky", top: 0, zIndex: 10,
           background: "rgba(10,14,26,0.92)",
@@ -216,19 +225,35 @@ export default function App() {
         }}>
           <div style={{ maxWidth: 1100, margin: "0 auto", padding: "16px 24px" }}>
 
-            {/* Search row */}
-            <div style={{ position: "relative", marginBottom: 12 }}>
-              <span style={{
-                position: "absolute", left: 16, top: "50%",
-                transform: "translateY(-50%)",
-                fontSize: 18, opacity: 0.4, pointerEvents: "none"
-              }}>🔍</span>
-              <input
-                className="search-input"
-                placeholder="Search events, venues, descriptions..."
-                value={search}
-                onChange={e => setSearch(e.target.value)}
-              />
+            {/* View tabs + search row */}
+            <div style={{ display: "flex", gap: 12, alignItems: "center", marginBottom: 12 }}>
+              <div style={{
+                display: "flex", gap: 4,
+                background: "rgba(255,255,255,0.04)",
+                border: "1px solid rgba(255,255,255,0.08)",
+                borderRadius: 10, padding: 3,
+              }}>
+                {VIEWS.map(v => (
+                  <button
+                    key={v}
+                    className={`view-tab${view === v ? " active" : ""}`}
+                    onClick={() => setView(v)}
+                  >{v}</button>
+                ))}
+              </div>
+              <div style={{ position: "relative", flex: 1 }}>
+                <span style={{
+                  position: "absolute", left: 16, top: "50%",
+                  transform: "translateY(-50%)",
+                  fontSize: 18, opacity: 0.4, pointerEvents: "none"
+                }}>🔍</span>
+                <input
+                  className="search-input"
+                  placeholder="Search events, venues, descriptions..."
+                  value={search}
+                  onChange={e => setSearch(e.target.value)}
+                />
+              </div>
             </div>
 
             {/* Category pills */}
@@ -248,49 +273,56 @@ export default function App() {
               ))}
             </div>
 
-            {/* Second row: date + price + sort */}
-            <div style={{ display: "flex", gap: 8, flexWrap: "wrap", alignItems: "center" }}>
-              <input type="date" value={dateFrom} onChange={e => setDateFrom(e.target.value)}
-                className="filter-select" title="From date" />
-              <span style={{ color: "rgba(232,224,208,0.3)", fontSize: 12 }}>→</span>
-              <input type="date" value={dateTo} onChange={e => setDateTo(e.target.value)}
-                className="filter-select" title="To date" />
-              <select value={price} onChange={e => setPrice(e.target.value)} className="filter-select">
-                <option value="all">Any price</option>
-                <option value="free">Free only</option>
-                <option value="paid">Paid only</option>
-              </select>
-              <select value={sortBy} onChange={e => setSortBy(e.target.value)} className="filter-select">
-                <option value="date">Sort: date</option>
-                <option value="price">Sort: price</option>
-                <option value="sources">Sort: sources</option>
-              </select>
-              <span className="results-count" style={{ marginLeft: "auto" }}>
-                {filtered.length} / {events.length} events
-              </span>
-            </div>
+            {/* Date + price + sort row — hidden in calendar views */}
+            {view === "List" && (
+              <div style={{ display: "flex", gap: 8, flexWrap: "wrap", alignItems: "center" }}>
+                <input type="date" value={dateFrom} onChange={e => setDateFrom(e.target.value)}
+                  className="filter-select" title="From date" />
+                <span style={{ color: "rgba(232,224,208,0.3)", fontSize: 12 }}>→</span>
+                <input type="date" value={dateTo} onChange={e => setDateTo(e.target.value)}
+                  className="filter-select" title="To date" />
+                <select value={price} onChange={e => setPrice(e.target.value)} className="filter-select">
+                  <option value="all">Any price</option>
+                  <option value="free">Free only</option>
+                  <option value="paid">Paid only</option>
+                </select>
+                <select value={sortBy} onChange={e => setSortBy(e.target.value)} className="filter-select">
+                  <option value="date">Sort: date</option>
+                  <option value="price">Sort: price</option>
+                  <option value="sources">Sort: sources</option>
+                </select>
+                <span className="results-count" style={{ marginLeft: "auto" }}>
+                  {filtered.length} / {events.length} events
+                </span>
+              </div>
+            )}
           </div>
         </div>
 
-        {/* Event list */}
+        {/* Main content */}
         <main style={{ maxWidth: 1100, margin: "0 auto", padding: "40px 24px 80px" }}>
-          {filtered.length === 0 ? (
-            <div style={{ textAlign: "center", padding: "80px 0", color: "rgba(232,224,208,0.3)" }}>
-              <div style={{ fontSize: 48, marginBottom: 16 }}>🎭</div>
-              <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 24 }}>No events found</div>
-              <div style={{ fontSize: 14, marginTop: 8 }}>Try adjusting your filters</div>
-            </div>
-          ) : (
-            filtered.map((event, i) => (
-              <div key={event.id} className="event-item" style={{ animationDelay: `${Math.min(i * 0.04, 0.4)}s` }}>
-                <EventCard event={event} />
-                {i < filtered.length - 1 && <div className="divider" />}
+          {view === "List" && (
+            filtered.length === 0 ? (
+              <div style={{ textAlign: "center", padding: "80px 0", color: "rgba(232,224,208,0.3)" }}>
+                <div style={{ fontSize: 48, marginBottom: 16 }}>🎭</div>
+                <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 24 }}>No events found</div>
+                <div style={{ fontSize: 14, marginTop: 8 }}>Try adjusting your filters</div>
               </div>
-            ))
+            ) : (
+              filtered.map((event, i) => (
+                <div key={event.id} className="event-item"
+                  style={{ animationDelay: `${Math.min(i * 0.04, 0.4)}s` }}>
+                  <EventCard event={event} />
+                  {i < filtered.length - 1 && <div className="divider" />}
+                </div>
+              ))
+            )
           )}
+
+          {view === "Week" && <WeekView events={filtered} />}
+          {view === "Month" && <MonthView events={filtered} />}
         </main>
 
-        {/* Footer */}
         <footer style={{
           borderTop: "1px solid rgba(255,255,255,0.07)",
           padding: "24px",
