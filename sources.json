@@ -5,7 +5,7 @@
     "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
     "type": "html",
     "language": "es",
-    "enabled": true,
+    "enabled": false,
     "follow_links": true,
     "notes": "Listing page — each event links to a detail page with full info"
   },

@@ -12,7 +12,11 @@ If you are unsure of the date, skip the event entirely.
 
 For each qualifying event return exactly these fields:
 - title: string (in original language)
-- url: the specific URL of this event's detail page if you can find it in the text, otherwise null
+- url: the specific URL of this individual event or article page. 
+       If this text comes from an article page, use that article's URL (it will be provided to you).
+       If you can find a more specific event detail URL in the text, use that instead.
+       Never use a category listing page URL like /category/... or /agenda as the url.
+       If no specific URL is available, return null.
 - date_start: ISO 8601 date string YYYY-MM-DD, or null if unknown
 - date_end: ISO 8601 date string YYYY-MM-DD, or null if single day
 - time_start: HH:MM string in 24h format, or null if unknown
@@ -33,23 +37,25 @@ def extract_events(content: str, source: dict) -> list[dict]:
     if not content or not content.strip():
         return []
 
-    today = date.today().isoformat()
+    today  = date.today().isoformat()
     prompt = SYSTEM_PROMPT.format(today=today)
+    # Tell Claude the URL of the page this content came from
+    page_url = source.get("url", "unknown")
 
     try:
         message = client.messages.create(
             model="claude-haiku-4-5-20251001",
             max_tokens=4096,
             system=prompt,
-            messages=[
-                {
-                    "role": "user",
-                    "content": f"Extract all events from this text scraped from {source['name']}:\n\n{content}"
-                }
-            ]
+            messages=[{
+                "role": "user",
+                "content": (
+                    f"Page URL: {page_url}\n\n"
+                    f"Extract all qualifying events from this text scraped from {source['name']}:\n\n{content}"
+                )
+            }]
         )
         raw = message.content[0].text.strip()
-        # Strip markdown fences if the model adds them despite instructions
         if raw.startswith("```"):
             raw = raw.split("\n", 1)[1].rsplit("```", 1)[0]
         events = json.loads(raw)
