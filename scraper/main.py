@@ -50,7 +50,10 @@ def run(max_sources=None, dry_run=False):
             all_events = []
             for link in links:
                 try:
-                    article_html    = fetch_html(link)
+                    if source["type"] == "js":
+                        article_html = fetch_js(link, wait_for_selector=source.get("wait_for"))
+                    else:
+                        article_html = fetch_html(link)
                     article_content = extract_main_content(article_html)
                     found = extract_events(article_content, {**source, "url": link})
                     print(f"  {link} → {len(found)} events")

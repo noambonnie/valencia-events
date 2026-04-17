@@ -17,12 +17,20 @@ def fetch_html(url: str) -> str:
         resp.raise_for_status()
         return resp.text
 
-def fetch_js(url: str) -> str:
-    """Fetch a JS-rendered page using a headless browser."""
+def fetch_js(url: str, wait_for_selector: str = None) -> str:
+    """Fetch a JS-rendered page using a headless browser.
+    Optionally wait for a specific CSS selector to appear before extracting."""
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page(extra_http_headers=HEADERS)
         page.goto(url, wait_until="networkidle", timeout=60000)
+        if wait_for_selector:
+            try:
+                page.wait_for_selector(wait_for_selector, timeout=15000)
+            except Exception:
+                pass  # proceed anyway, content may have loaded differently
+        # Extra wait for any remaining async rendering
+        page.wait_for_timeout(2000)
         content = page.content()
         browser.close()
         return content
@@ -42,9 +50,9 @@ def fetch_source(source: dict) -> str | None:
         if source["type"] == "html":
             html = fetch_html(source["url"])
         elif source["type"] == "js":
-            html = fetch_js(source["url"])
+            html = fetch_js(source["url"], wait_for_selector=source.get("wait_for"))
         elif source["type"] == "rss":
-            return fetch_html(source["url"])  # RSS is plain XML, no cleaning needed
+            return fetch_html(source["url"])
         else:
             print(f"  Unknown type '{source['type']}' for {source['id']}, skipping")
             return None

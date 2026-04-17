@@ -3,13 +3,14 @@
     "id": "valencia_es",
     "name": "Ajuntament de València",
     "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
-    "type": "html",
+    "type": "js",
     "language": "es",
     "enabled": true,
     "follow_links": true,
-    "notes": "Listing page — each event links to a detail page with full info"
+    "wait_for": ".agenda-item, .event-item, article",
+    "notes": "JS-rendered Liferay portal — events load via AJAX"
   },
-{
+  {
     "id": "valenciabonita",
     "name": "Valencia Bonita",
     "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
@@ -26,8 +27,9 @@
     "type": "js",
     "language": "es",
     "enabled": true,
-    "follow_links": false,
-    "notes": "Tourism board, museums and guided tours"
+    "follow_links": true,
+    "wait_for": ".view-content, .event-teaser, article",
+    "notes": "JS-rendered Drupal site — events load dynamically"
   },
   {
     "id": "la_guia_del_ocio",
