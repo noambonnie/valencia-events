@@ -59,7 +59,13 @@ def extract_events(content: str, source: dict) -> list[dict]:
         if raw.startswith("```"):
             raw = raw.split("\n", 1)[1].rsplit("```", 1)[0]
         events = json.loads(raw)
-        return events if isinstance(events, list) else []
+        if not isinstance(events, list):
+            return []
+        # Strip URL fragments (#respond, #comments, etc.)
+        for event in events:
+            if event.get("url"):
+                event["url"] = event["url"].split("#")[0].rstrip("/")
+        return events
     except json.JSONDecodeError as e:
         print(f"  JSON parse error for {source['id']}: {e}")
         return []
