@@ -22,7 +22,7 @@
   {
     "id": "visit_valencia",
     "name": "Visit València",
-    "url": "https://www.visitvalencia.com/agenda",
+    "url": "https://www.visitvalencia.com/agenda-valencia",
     "type": "js",
     "language": "es",
     "enabled": true,
@@ -32,7 +32,7 @@
   {
     "id": "la_guia_del_ocio",
     "name": "La Guía del Ocio Valencia",
-    "url": "https://www.visitvalencia.com/agenda-valencia",
+    "url": "https://valencia.laguiadelocio.com/agenda",
     "type": "html",
     "language": "es",
     "enabled": false,
