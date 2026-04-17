@@ -1,102 +1,6 @@
 [
   {
-    "id": 305,
-    "fingerprint": "unknown__chelva__quesalia-2026-feria-queso",
-    "title": "Quesalia 2026: Feria del Queso y Maridaje de Chelva",
-    "date_start": null,
-    "date_end": null,
-    "time_start": null,
-    "location": "Chelva",
-    "district": null,
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "5th anniversary edition of the Cheese and Pairing Fair in Chelva, celebrating artisan cheeses and food pairings.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-06T07:59:45.705058+00:00"
-      }
-    ],
-    "first_seen": "2026-04-06T07:59:45.705058+00:00",
-    "last_updated": "2026-04-06T07:59:45.705058+00:00"
-  },
-  {
-    "id": 306,
-    "fingerprint": "unknown__gandia__exposicion-modelismo-ferroviario-con",
-    "title": "Exposición de modelismo ferroviario con trenes en miniatura",
-    "date_start": null,
-    "date_end": null,
-    "time_start": null,
-    "location": "Gandia",
-    "district": null,
-    "category": "exhibition",
-    "price": "Gratis",
-    "price_value": 0.0,
-    "description": "Free exhibition of model railways featuring miniature trains in Gandia.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-06T07:59:45.705058+00:00"
-      }
-    ],
-    "first_seen": "2026-04-06T07:59:45.705058+00:00",
-    "last_updated": "2026-04-06T07:59:45.705058+00:00"
-  },
-  {
-    "id": 345,
-    "fingerprint": "unknown__benafer__secreto-cofradia-escape-room",
-    "title": "El Secreto de la Cofradía - Escape Room Gratuito en Benafer",
-    "date_start": null,
-    "date_end": null,
-    "time_start": null,
-    "location": "Benafer",
-    "district": null,
-    "category": "other",
-    "price": "Gratis",
-    "price_value": 0.0,
-    "description": "A free interactive escape room experience in the small town of Benafer, where participants solve puzzles and riddles while exploring the municipality's streets, squares and landmarks through a mobile app.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://scaperoombenafer.com/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 373,
-    "fingerprint": "2026-04-07__castillo de fiestas __castillo-fiestas-visitas-guiadas",
-    "title": "Castillo de Fiestas - Visitas Guiadas",
-    "date_start": "2026-04-07",
-    "date_end": "2026-04-21",
-    "time_start": null,
-    "location": "Castillo de Fiestas, Alcoy",
-    "district": null,
-    "category": "guided_tour",
-    "price": "€0-2",
-    "price_value": 0.0,
-    "description": "Guided visits to the Festival Castle with interactive activities including games, workshops and photocall, exploring its history and role in the festivities.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/2026/04/11/fiestas-moros-y-cristianos-alcoy-2026/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
-      }
-    ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
-  },
-  {
-    "id": 362,
+    "id": 18,
     "fingerprint": "2026-04-15__torrent__the-burger-cup",
     "title": "The Burger Cup",
     "date_start": "2026-04-15",
@@ -107,20 +11,44 @@
     "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "A burger competition event bringing some of Spain's best hamburgers to Torrent.",
+    "description": "A hamburger festival featuring some of Spain's best burger creations.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 363,
+    "id": 2,
+    "fingerprint": "2026-04-16__alaquas parc del ros__festa-i-porrat-sant",
+    "title": "Festa i Porrat de Sant Francesc de Paula 2026",
+    "date_start": "2026-04-16",
+    "date_end": "2026-04-27",
+    "time_start": null,
+    "location": "Alaquàs, parc del Roser",
+    "district": "Alaquàs",
+    "category": "festival",
+    "price": "Gratis",
+    "price_value": 0.0,
+    "description": "Religious and popular celebration honoring Saint Francis of Paula combining traditional Valencia culture with fair, market, music, theatre and gastronomy. Features free distribution of 5,000 portions of arròs amb fesols i naps on April 26.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Valencia Bonita",
+        "url": "https://www.valenciabonita.es/2026/04/17/porrat-de-sant-francesc-de-paula-alaquas-2026/",
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
+      }
+    ],
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
+  },
+  {
+    "id": 19,
     "fingerprint": "2026-04-16__valencia__kroqueta-fest",
     "title": "Kroqueta Fest",
     "date_start": "2026-04-16",
@@ -131,313 +59,44 @@
     "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "The second edition of Kroqueta Fest featuring traditional and creative croquette recipes with live music.",
+    "description": "The second edition of a croquette festival with live music featuring traditional and creative croquette recipes.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 199,
-    "fingerprint": "2026-04-17__paseo maritimo de va__mig-any-fester-mercado",
-    "title": "Mig Any Fester - Mercado Medieval del Marítimo",
-    "date_start": "2026-04-17",
-    "date_end": "2026-04-19",
+    "id": 30,
+    "fingerprint": "2026-04-16__caixaforum valencia__mundos-alicia-sonar-pais",
+    "title": "Los mundos de Alicia. Soñar el país de las maravillas",
+    "date_start": "2026-04-16",
+    "date_end": "2026-10-12",
     "time_start": null,
-    "location": "Paseo Marítimo de Valencia",
-    "district": "Poblats Marítims",
-    "category": "market",
-    "price": null,
-    "price_value": null,
-    "description": "Medieval fair on Valencia's seafront with 70 market stalls, shows and a children's Moors and Christians parade.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-03T09:07:48.342509+00:00"
-  },
-  {
-    "id": 200,
-    "fingerprint": "2026-04-17__feria valencia pabel__feria-vehiculo-ocasion-valencia",
-    "title": "Feria del Vehículo de Ocasión de Valencia",
-    "date_start": "2026-04-17",
-    "date_end": "2026-04-19",
-    "time_start": null,
-    "location": "Feria Valencia, Pabellones 1 y 2",
+    "location": "CaixaForum Valencia",
     "district": null,
     "category": "exhibition",
     "price": null,
     "price_value": null,
-    "description": "Annual used vehicle fair with over 20,000 m² of exhibition space featuring 30 brands, seminew cars, km 0 vehicles and caravaning options.",
+    "description": "A major immersive exhibition featuring 255 pieces and artworks from the Victoria and Albert Museum exploring the literary and artistic universe of Alice in Wonderland across five thematic areas spanning 160 years of cultural influence.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
+        "url": "https://www.valenciabonita.es/2026/04/16/exposicion-alicia-en-el-pais-de-las-maravillas-valencia/",
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-03T09:07:48.342509+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 201,
-    "fingerprint": "2026-04-17__avenida selgas xativ__firall-xativa-feria-ajo",
-    "title": "FirAll Xàtiva - Feria del Ajo Tierno",
-    "date_start": "2026-04-17",
-    "date_end": "2026-04-19",
-    "time_start": null,
-    "location": "Avenida Selgas, Xàtiva",
-    "district": null,
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Tenth anniversary celebration of the tender garlic fair combining agricultural tradition, local gastronomy, live music and family activities.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-03T09:07:48.342509+00:00"
-  },
-  {
-    "id": 202,
-    "fingerprint": "2026-04-17__plaza san miguel tou__mercado-artesanal-tous",
-    "title": "Mercado Artesanal de Tous",
-    "date_start": "2026-04-17",
-    "date_end": "2026-04-19",
-    "time_start": null,
-    "location": "Plaza San Miguel, Tous",
-    "district": null,
-    "category": "market",
-    "price": null,
-    "price_value": null,
-    "description": "Artisan market with crafts, gastronomy, children's area, animal farm, donkey rides and theater performances.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-03T09:07:48.342509+00:00"
-  },
-  {
-    "id": 208,
-    "fingerprint": "2026-04-17__paseo maritimo de va__gran-feria-medieval-paseo",
-    "title": "Gran feria medieval en el Paseo Marítimo de Valencia con mercado, espectáculos y entrada infantil",
-    "date_start": "2026-04-17",
-    "date_end": "2026-04-19",
-    "time_start": null,
-    "location": "Paseo Marítimo de Valencia, explanada junto al Hotel Balneario de las Arenas y la oficina de turismo",
-    "district": "El Marítimo",
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Medieval fair celebrating the Mig Any Fester del Marítimo 2026, featuring 70 market stalls with artisans and food vendors, Arab and Christian dances, live music, historical reenactments, and a children's Moors and Christians parade.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-03T09:07:48.342509+00:00"
-  },
-  {
-    "id": 232,
-    "fingerprint": "2026-04-17__avenida selgas xativ__firall-xativa-2026",
-    "title": "FirAll Xàtiva 2026",
-    "date_start": "2026-04-17",
-    "date_end": "2026-04-19",
-    "time_start": "10:00",
-    "location": "Avenida Selgas, Xàtiva",
-    "district": null,
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "The 10th edition of FirAll, a three-day festival celebrating tender garlic with gastronomy, culture, music and family activities in Xàtiva.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      },
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
-  },
-  {
-    "id": 255,
-    "fingerprint": "2026-04-17__paseo maritimo valen__mig-any-fester-moros",
-    "title": "Mig Any Fester de los Moros y Cristianos del Marítimo - Mercado Medieval",
-    "date_start": "2026-04-17",
-    "date_end": "2026-04-19",
-    "time_start": null,
-    "location": "Paseo Marítimo, Valencia",
-    "district": "Poblados Marítimos",
-    "category": "market",
-    "price": null,
-    "price_value": null,
-    "description": "Medieval fair at Valencia's seafront promenade with 70 market stalls, shows and children's Moors and Christians parade.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-04T07:14:44.723732+00:00"
-      }
-    ],
-    "first_seen": "2026-04-04T07:14:44.723732+00:00",
-    "last_updated": "2026-04-04T07:14:44.723732+00:00"
-  },
-  {
-    "id": 256,
-    "fingerprint": "2026-04-17__avenida selgas junto__firall-xativa-feria-ajo",
-    "title": "FirAll Xàtiva - Feria del Ajo Tierno",
-    "date_start": "2026-04-17",
-    "date_end": "2026-04-19",
-    "time_start": null,
-    "location": "Avenida Selgas, junto al Gran Teatro, Xàtiva",
-    "district": null,
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "10th anniversary edition of the tender garlic fair, combining agricultural tradition with local gastronomy, live music and family activities.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-04T07:14:44.723732+00:00"
-      }
-    ],
-    "first_seen": "2026-04-04T07:14:44.723732+00:00",
-    "last_updated": "2026-04-04T07:14:44.723732+00:00"
-  },
-  {
-    "id": 282,
-    "fingerprint": "2026-04-17__paseo maritimo de va__feria-medieval-maritimo-mig",
-    "title": "Feria Medieval del Marítimo - Mig Any Fester 2026",
-    "date_start": "2026-04-17",
-    "date_end": "2026-04-19",
-    "time_start": null,
-    "location": "Paseo Marítimo de Valencia, junto al monumento al actor Antonio Ferrandis",
-    "district": "Marítimo",
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "A three-day medieval fair on Valencia's seafront promenade featuring 70 market stalls with artisans and food vendors, Arab and Christian dances, live music, children's parade, and cultural performances from Honduras, Bolivia and Spain.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-05T07:21:20.208394+00:00"
-      }
-    ],
-    "first_seen": "2026-04-05T07:21:20.208394+00:00",
-    "last_updated": "2026-04-05T07:21:20.208394+00:00"
-  },
-  {
-    "id": 303,
-    "fingerprint": "2026-04-17__paseo maritimo de va__mig-any-fester-moros",
-    "title": "Mig Any Fester Moros y Cristianos del Marítimo - Mercado Medieval",
-    "date_start": "2026-04-17",
-    "date_end": "2026-04-19",
-    "time_start": null,
-    "location": "Paseo Marítimo de Valencia",
-    "district": "Poblats Marítims",
-    "category": "market",
-    "price": null,
-    "price_value": null,
-    "description": "Large medieval fair with 70 market stalls, shows and children's Moors and Christians parade on Valencia's seafront promenade.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-06T07:59:45.705058+00:00"
-      }
-    ],
-    "first_seen": "2026-04-06T07:59:45.705058+00:00",
-    "last_updated": "2026-04-06T07:59:45.705058+00:00"
-  },
-  {
-    "id": 342,
-    "fingerprint": "2026-04-17__avenida selgas xativ__firall-xativa-x-feria",
-    "title": "FirAll Xàtiva - X Feria del Ajo Tierno",
-    "date_start": "2026-04-17",
-    "date_end": "2026-04-19",
-    "time_start": null,
-    "location": "Avenida Selgas, Xàtiva",
-    "district": null,
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Tenth anniversary edition of the tender garlic fair combining agricultural tradition, local gastronomy, live music and family activities.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 346,
-    "fingerprint": "2026-04-17__ribaroja de turia__ribaroja-es-canya-2026",
-    "title": "Riba-roja és la Canya 2026",
-    "date_start": "2026-04-17",
-    "date_end": "2026-04-19",
-    "time_start": "19:00",
-    "location": "Riba-roja de Túria",
-    "district": null,
-    "category": "festival",
-    "price": "€3,50 por tapa con bebida",
-    "price_value": 3.5,
-    "description": "A three-day tapas route through approximately 15 bars and restaurants in Riba-roja de Túria, featuring quality tapas with drinks for €3.50, passport stamps for prizes, and a fun train connecting venues.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 347,
+    "id": 3,
     "fingerprint": "2026-04-17__parc central de vale__dona-festival-2026",
     "title": "Dona Festival 2026",
     "date_start": "2026-04-17",
@@ -445,23 +104,47 @@
     "time_start": null,
     "location": "Parc Central de Valencia",
     "district": null,
-    "category": "concert",
+    "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "A 100% female musical afternoon event celebrating women's culture and music at Parc Central de Valencia.",
+    "description": "A musical afternoon festival celebrating women artists at Parc Central de Valencia.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 348,
+    "id": 4,
+    "fingerprint": "2026-04-17__avenida selgas xativ__firall-xativa-2026",
+    "title": "FirAll Xàtiva 2026",
+    "date_start": "2026-04-17",
+    "date_end": "2026-04-19",
+    "time_start": null,
+    "location": "Avenida Selgas, Xàtiva",
+    "district": null,
+    "category": "market",
+    "price": null,
+    "price_value": null,
+    "description": "The tenth anniversary edition of the tender garlic fair in Xàtiva featuring agriculture, gastronomy, music and activities.",
+    "image_url": null,
+    "sources": [
+      {
+        "name": "Valencia Bonita",
+        "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
+      }
+    ],
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
+  },
+  {
+    "id": 5,
     "fingerprint": "2026-04-17__paseo maritimo de va__feria-medieval-maritimo",
     "title": "Feria Medieval del Marítimo",
     "date_start": "2026-04-17",
@@ -469,23 +152,23 @@
     "time_start": null,
     "location": "Paseo Marítimo de Valencia",
     "district": null,
-    "category": "market",
+    "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "A medieval fair with market, shows and children's entrance commemorating Mig Any Fester with over 20 years of tradition.",
+    "description": "A medieval fair commemorating Mig Any Fester with market, spectacles and children's entrance.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 351,
+    "id": 8,
     "fingerprint": "2026-04-17__valencia__apertura-gratuita-monumentos-visitas",
     "title": "Apertura gratuita de monumentos y visitas guiadas a refugios antiaéreos",
     "date_start": "2026-04-17",
@@ -496,20 +179,20 @@
     "category": "guided_tour",
     "price": "Gratis",
     "price_value": 0.0,
-    "description": "Free opening of monuments and guided tours of air raid shelters in Valencia.",
+    "description": "Free opening of monuments and guided visits to air raid shelters in Valencia.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 352,
+    "id": 9,
     "fingerprint": "2026-04-17__valencia__festin",
     "title": "FestIN",
     "date_start": "2026-04-17",
@@ -520,20 +203,20 @@
     "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "A festival combining culture and gastronomy that transforms emblematic spaces into unique sensory experiences through art, history and music.",
+    "description": "A cultural and gastronomic festival transforming emblematic spaces into unique sensory experiences combining art, history and music with gastronomy.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 353,
+    "id": 10,
     "fingerprint": "2026-04-17__valencia__valencia-cuina-oberta",
     "title": "Valencia Cuina Oberta",
     "date_start": "2026-04-17",
@@ -544,20 +227,20 @@
     "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "A gastronomic event featuring a record number of restaurants, Michelin stars and unique dining experiences.",
+    "description": "A gastronomic event featuring more restaurants and Michelin-starred experiences than previous editions.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 355,
+    "id": 12,
     "fingerprint": "2026-04-17__feria valencia benim__feria-vehiculo-ocasion-valencia",
     "title": "Feria del Vehículo de Ocasión de Valencia",
     "date_start": "2026-04-17",
@@ -568,20 +251,20 @@
     "category": "market",
     "price": null,
     "price_value": null,
-    "description": "A used vehicle fair featuring nearly 30 brands offering semi-new and zero-kilometer cars with a new caravanning section.",
+    "description": "A used vehicle fair featuring nearly 30 brands of semi-new cars, km 0 vehicles and caravanning options.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 357,
+    "id": 14,
     "fingerprint": "2026-04-17__lolleria__iii-fira-vidre-i",
     "title": "III Fira del Vidre i l'Artesania",
     "date_start": "2026-04-17",
@@ -592,22 +275,22 @@
     "category": "market",
     "price": null,
     "price_value": null,
-    "description": "Glass and craftsmanship fair featuring demonstrations, a tourist train and wine fair.",
+    "description": "A glass and crafts fair featuring demonstrations, tourist train and wine fair.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 359,
+    "id": 16,
     "fingerprint": "2026-04-17__valencia__visitas-guiadas-sobre-san",
-    "title": "Visitas guiadas sobre San Vicente Ferrer",
+    "title": "Visitas guiadas sobre San Vicente Ferrer y fuentes ornamentales de Valencia",
     "date_start": "2026-04-17",
     "date_end": "2026-04-19",
     "time_start": null,
@@ -616,164 +299,68 @@
     "category": "guided_tour",
     "price": "Gratis",
     "price_value": 0.0,
-    "description": "Free guided tours discovering the figure of San Vicente Ferrer led by professional guides.",
+    "description": "Free guided tours with professional guides to discover San Vicente Ferrer and historic ornamental fountains.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 360,
-    "fingerprint": "2026-04-17__valencia__visitas-guiadas-sobre-fuentes",
-    "title": "Visitas guiadas sobre fuentes históricas de Valencia",
-    "date_start": "2026-04-17",
-    "date_end": "2026-04-19",
-    "time_start": null,
-    "location": "Valencia",
-    "district": null,
-    "category": "guided_tour",
-    "price": "Gratis",
-    "price_value": 0.0,
-    "description": "Free guided tours led by professional guides to discover the most historic ornamental fountains of Valencia.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
-      }
-    ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
-  },
-  {
-    "id": 361,
-    "fingerprint": "2026-04-17__castillo de alaquas__exposicion-karpa",
-    "title": "Exposición de Karpa",
+    "id": 17,
+    "fingerprint": "2026-04-17__castillo de alaquas__exposicion-centenario-dibujante-karpa",
+    "title": "Exposición centenario del dibujante Karpa",
     "date_start": "2026-04-17",
     "date_end": "2026-04-29",
     "time_start": null,
     "location": "Castillo de Alaquàs",
-    "district": "Alaquàs",
+    "district": null,
     "category": "exhibition",
     "price": "Gratis",
     "price_value": 0.0,
-    "description": "A free exhibition celebrating the centenary of Valencian cartoonist Karpa with an immersive journey through his creative universe.",
+    "description": "A free immersive exhibition celebrating the centenary of Valencian cartoonist Karpa with original artwork and interactive elements.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 377,
-    "fingerprint": "2026-04-17__multiple locations a__visitas-guiadas-refugios-antiaereos",
-    "title": "Visitas guiadas a refugios antiaéreos - Día Internacional de los Monumentos y Sitios 2026",
-    "date_start": "2026-04-17",
-    "date_end": "2026-04-19",
-    "time_start": "11:00",
-    "location": "Multiple locations (Ayuntamiento, calle Serranos, IES Lluís Vives, Falla Ripalda-Sogueros, Colegio Vedruna)",
-    "district": "Centro",
-    "category": "guided_tour",
-    "price": "Gratis",
-    "price_value": 0.0,
-    "description": "Guided tours of five Civil War air raid shelters in Valencia with limited groups and sessions in Spanish and Valencian. Tours take place Friday through Sunday with advance reservation required.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/2026/04/16/dia-internacional-de-los-monumentos-y-sitios-2026-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
-      }
-    ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
-  },
-  {
-    "id": 379,
-    "fingerprint": "2026-04-17__refugio del ayuntami__conferencias-sobre-refugios-antiaereos",
-    "title": "Conferencias sobre refugios antiaéreos - Día Internacional de los Monumentos y Sitios 2026",
+    "id": 29,
+    "fingerprint": "2026-04-17__refugio del ayuntami__conferencias-sobre-patrimonio-guerra",
+    "title": "Conferencias sobre patrimonio de la Guerra Civil y refugios antiaéreos",
     "date_start": "2026-04-17",
     "date_end": null,
     "time_start": "17:30",
     "location": "Refugio del Ayuntamiento de Valencia, calle Arzobispo Mayoral, 1",
-    "district": "Centro",
+    "district": "Valencia",
     "category": "guided_tour",
-    "price": "Gratis",
-    "price_value": 0.0,
-    "description": "Afternoon program featuring presentations and conferences on the historical value of Civil War air raid shelters in Valencia, including talks on Civil War heritage and Valencia's shelter system.",
+    "price": null,
+    "price_value": null,
+    "description": "Conferences on Civil War heritage and Valencia's air raid shelters featuring presentations by Amalia Pérez-Juez Gil and José María Azkárraga Testor on April 17, 2026.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/dia-internacional-de-los-monumentos-y-sitios-2026-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 203,
-    "fingerprint": "2026-04-18__centro historico y c__iii-fira-vidre-i",
-    "title": "III Fira del Vidre i l'Artesania de L'Olleria",
-    "date_start": "2026-04-18",
-    "date_end": "2026-04-19",
-    "time_start": null,
-    "location": "Centro Histórico y Casa Santonja, L'Olleria",
-    "district": null,
-    "category": "market",
-    "price": null,
-    "price_value": null,
-    "description": "Glass and artisan fair featuring blown glass, ceramics, basketry with live demonstrations. Wine and gastronomy fair also on Saturday.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-03T09:07:48.342509+00:00"
-  },
-  {
-    "id": 231,
-    "fingerprint": "2026-04-18__palau de la musica d__gala-aniversario-grupos-federacio",
-    "title": "Gala Aniversario de los Grupos de la Federació de Folklore de la Comunitat Valenciana",
-    "date_start": "2026-04-18",
-    "date_end": null,
-    "time_start": "11:30",
-    "location": "Palau de la Música de Valencia, Sala Iturbi",
-    "district": null,
-    "category": "festival",
-    "price": "Gratis",
-    "price_value": 0.0,
-    "description": "A free gala celebrating over 50 years of Valencian folklore, featuring traditional dance groups including Grup de Ball de Torrent, Grup de Danses Arcude de la Vall d'Uixó, Grup de Danses de Villena, and Grup de Danses de l'Alcúdia. Entry is free until capacity is reached.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-03T09:07:48.342509+00:00"
-  },
-  {
-    "id": 349,
+    "id": 6,
     "fingerprint": "2026-04-18__palau de la musica d__gala-folklore-valenciano",
     "title": "Gala de folklore valenciano",
     "date_start": "2026-04-18",
@@ -784,22 +371,22 @@
     "category": "concert",
     "price": "Gratis",
     "price_value": 0.0,
-    "description": "A free gala featuring Valencian folklore groups at the Palau de la Música.",
+    "description": "A free gala of Valencian folklore groups at the Palau de la Música.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 350,
+    "id": 7,
     "fingerprint": "2026-04-18__jardin botanico de v__jornada-puertas-abiertas-jardin",
-    "title": "Jornada de puertas abiertas en el Jardín Botánico",
+    "title": "Jornada de puertas abiertas en el Jardín Botánico de Valencia",
     "date_start": "2026-04-18",
     "date_end": null,
     "time_start": null,
@@ -808,20 +395,20 @@
     "category": "guided_tour",
     "price": "Gratis",
     "price_value": 0.0,
-    "description": "Free open doors day at the Botanical Garden on International Day of Monuments and Sites.",
+    "description": "Free open day at the Botanical Garden of Valencia on International Day of Monuments and Sites.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 354,
+    "id": 11,
     "fingerprint": "2026-04-18__circuit ricardo torm__valencia-nascar-fest-2026",
     "title": "Valencia NASCAR Fest 2026",
     "date_start": "2026-04-18",
@@ -832,30 +419,30 @@
     "category": "sport",
     "price": null,
     "price_value": null,
-    "description": "American-inspired motorsport racing featuring truck and car races marking the start of the NASCAR Euro Series season with activities for all audiences.",
+    "description": "American-inspired racing weekend featuring NASCAR Euro Series competition with trucks, cars and activities.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       },
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/14/valencia-nascar-fest-2026/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       },
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/14/valencia-nascar-fest-2026/#respond",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 356,
+    "id": 13,
     "fingerprint": "2026-04-18__paterna__gran-fira-comerc-paterna",
     "title": "Gran Fira del Comerç de Paterna",
     "date_start": "2026-04-18",
@@ -866,20 +453,20 @@
     "category": "market",
     "price": null,
     "price_value": null,
-    "description": "A local commerce fair featuring over 60 shops, concerts and a gastronomic area.",
+    "description": "A major local commerce fair with over 60 shops, concerts and gastronomic zone.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 358,
+    "id": 15,
     "fingerprint": "2026-04-18__avenida vicente ferr__feria-comercial-canals",
     "title": "Feria Comercial de Canals",
     "date_start": "2026-04-18",
@@ -890,68 +477,73 @@
     "category": "market",
     "price": null,
     "price_value": null,
-    "description": "A commercial fair featuring local shops, associations and leisure activities on Vicente Ferri Avenue.",
+    "description": "A commercial fair with local shops, associations and leisure activities.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/planes-del-17-al-19-abril-2026-en-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 365,
+    "id": 21,
     "fingerprint": "2026-04-18__casa santonja palau __iii-fira-vidre-i",
     "title": "III Fira del Vidre i l'Artesania",
     "date_start": "2026-04-18",
     "date_end": "2026-04-19",
     "time_start": null,
-    "location": "Casa Santonja (Palau del Marau) and historic center of L'Olleria",
+    "location": "Casa Santonja (Palau del Marau) y centro histórico de L'Olleria",
     "district": null,
-    "category": "market",
+    "category": "festival",
     "price": null,
     "price_value": null,
-    "description": "L'Olleria celebrates the III Fair of Glass and Crafts with live demonstrations of traditional glasswork, artisan market with 23 exhibitors, patrimonial visits, and ViL'Olleria wine fair featuring 9 local wineries with gastronomy and live music.",
+    "description": "The III Fira del Vidre i l'Artesania celebrates traditional glassblowing and craftsmanship with live demonstrations, a artisanal market, wine fair (ViL'Olleria) with 9 participating wineries, and a tourist train visiting local heritage sites. The event features 23 artisans and artists, direct glass-blowing exhibitions, gastronomy, and live music.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/fira-del-vidre-i-artesania-lolleria-2026/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
+      },
+      {
+        "name": "Valencia Bonita",
+        "url": "https://www.valenciabonita.es/2026/04/16/fira-del-vidre-i-artesania-lolleria-2026/#respond",
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 367,
+    "id": 23,
     "fingerprint": "2026-04-18__jardin botanico de l__gran-jornada-puertas-abiertas",
-    "title": "Gran jornada de puertas abiertas en el Jardín Botánico de Valencia - Día Internacional de los Monumentos y Sitios 2026",
+    "title": "Gran jornada de puertas abiertas en el Jardín Botánico de Valencia - Día Internacional de los Monumentos y Sitios",
     "date_start": "2026-04-18",
     "date_end": null,
     "time_start": "10:00",
-    "location": "Jardín Botánico de la Universitat de Valencia, calle Quart, nº80, Valencia",
+    "location": "Jardín Botánico de la Universitat de Valencia, calle Quart nº80, Valencia",
     "district": null,
     "category": "guided_tour",
     "price": "Gratis",
     "price_value": 0.0,
-    "description": "Open day at the Botanical Garden with free access during regular hours (10:00-20:00) and two free guided tours at 10:30 and 12:00 in Spanish and Valencian. The historic garden, declared a Cultural Interest Asset, features monumental trees, century-old palms, and valuable 19th-century architectural elements.",
+    "description": "Free open day at the Valencia Botanical Garden celebrating International Monuments and Sites Day, with free access during regular hours (10:00-20:00) and two free guided tours at 10:30 and 12:00 for up to 25 people each.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/15/jardin-botanico-valencia-dia-internacional-de-los-monumentos-y-sitios-2026/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 368,
+    "id": 24,
     "fingerprint": "2026-04-18__parc central de pate__gran-fira-comerc-paterna",
     "title": "Gran Fira del Comerç de Paterna 2026",
     "date_start": "2026-04-18",
@@ -962,25 +554,20 @@
     "category": "market",
     "price": "Gratis",
     "price_value": 0.0,
-    "description": "A large fair featuring over 60 local shops, workshops, exhibitions, concerts, and gastronomic zone across four differentiated spaces. The event includes live music tributes, creative workshops, fashion demonstrations, and various activities for families.",
+    "description": "A commercial fair with over 60 local shops, workshops, exhibitions, concerts and a gastronomic area. Features multiple stages with creative activities, performances, raffles and live music throughout the weekend.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/14/gran-fira-del-comerc-de-paterna-2026/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
-      },
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/2026/04/14/gran-fira-del-comerc-de-paterna-2026/#respond",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 369,
+    "id": 25,
     "fingerprint": "2026-04-18__mercado municipal de__mercado-vino-embutido-ontinyent",
     "title": "Mercado del vino y del embutido de Ontinyent",
     "date_start": "2026-04-18",
@@ -991,640 +578,73 @@
     "category": "market",
     "price": "€10",
     "price_value": 10.0,
-    "description": "A market event in Ontinyent featuring wine and cured meat tastings, local food products, live music, and traditional dishes like arroz al horno. The event is part of the 'Dissabtes de Mercat' program promoting local commerce and gastronomy.",
+    "description": "A wine and sausage market event featuring local gastronomic products, traditional embutido, arroz al horno tastings, and live music. The event includes wine tasting from Terres dels Alforins wineries and demonstrations by local merchants.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/14/mercat-del-vi-i-embotit-ontinyent-abril-2026/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       },
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/14/mercat-del-vi-i-embotit-ontinyent-abril-2026/#respond",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 378,
-    "fingerprint": "2026-04-18__la lonja de los merc__entrada-gratuita-monumentos-dia",
-    "title": "Entrada gratuita a monumentos - Día Internacional de los Monumentos y Sitios 2026",
+    "id": 27,
+    "fingerprint": "2026-04-18__five locations refug__visitas-guiadas-refugios-antiaereos",
+    "title": "Visitas guiadas a refugios antiaéreos - Día Internacional de los Monumentos y Sitios 2026",
     "date_start": "2026-04-18",
-    "date_end": null,
-    "time_start": null,
-    "location": "La Lonja de los Mercaderes, Torres de Serranos, Torres de Quart",
-    "district": "Centro",
-    "category": "exhibition",
+    "date_end": "2026-04-19",
+    "time_start": "11:00",
+    "location": "Five locations: Refugio del Ayuntamiento de Valencia, Refugio de la calle Serranos, Refugio del IES Lluís Vives, Refugio de la Falla Ripalda-Sogueros, Refugio del Colegio Vedruna – Sagrado Corazón",
+    "district": "Valencia",
+    "category": "guided_tour",
     "price": "Gratis",
     "price_value": 0.0,
-    "description": "Free open day to three of Valencia's most visited monuments with full access throughout the day on Saturday, April 18.",
+    "description": "Guided visits to Civil War air raid shelters in Valencia with limited groups and tours in Spanish and Valencian. Prior reservation required by calling 604 04 91 50.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/dia-internacional-de-los-monumentos-y-sitios-2026-valencia/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 204,
-    "fingerprint": "2026-04-22__mercado de tapineria__tap-tap-mercadillo-variedades",
-    "title": "TAP TAP · Mercadillo de variedades",
-    "date_start": "2026-04-22",
-    "date_end": "2026-04-26",
-    "time_start": null,
-    "location": "Mercado de Tapineria, Calle Tapineria 15-17",
-    "district": "Centro",
-    "category": "market",
-    "price": null,
-    "price_value": null,
-    "description": "Variety market at Mercado de Tapineria with diverse goods and products.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-03T09:07:48.342509+00:00"
-  },
-  {
-    "id": 372,
-    "fingerprint": "2026-04-23__glorieta alcoy__tapa-i-festa-feria",
-    "title": "Tapa i Festa - Feria Gastronómica",
-    "date_start": "2026-04-23",
-    "date_end": "2026-04-27",
-    "time_start": "10:00",
-    "location": "Glorieta, Alcoy",
-    "district": null,
-    "category": "market",
-    "price": null,
-    "price_value": null,
-    "description": "Food truck fair at Glorieta featuring around twenty vendors offering Asian, Mexican, American, Japanese and Mediterranean cuisine, open daily from 10:00 to 02:00.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/2026/04/11/fiestas-moros-y-cristianos-alcoy-2026/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
-      }
-    ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
-  },
-  {
-    "id": 374,
-    "fingerprint": "2026-04-23__la glorieta alcoy__tapa-i-festa-feria",
-    "title": "Tapa i Festa - Feria Gastronómica",
-    "date_start": "2026-04-23",
-    "date_end": "2026-04-27",
-    "time_start": "10:00",
-    "location": "La Glorieta, Alcoy",
-    "district": null,
-    "category": "market",
-    "price": null,
-    "price_value": null,
-    "description": "A gastronomic fair featuring around twenty food trucks with varied cuisine including Asian, Mexican, American, Japanese and Mediterranean food, central bars with drinks, and other leisure and crafts spaces during the Moros y Cristianos festival.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/2026/04/11/fiestas-moros-y-cristianos-alcoy-2026/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
-      }
-    ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
-  },
-  {
-    "id": 56,
-    "fingerprint": "2026-04-24__unknown__talleres-infantiles-dissabtes-diveractius",
-    "title": "Talleres Infantiles 'Dissabtes DiverActius'",
-    "date_start": "2026-04-24",
+    "id": 28,
+    "fingerprint": "2026-04-18__la lonja de los merc__acceso-gratuito-monumentos-historicos",
+    "title": "Acceso gratuito a monumentos históricos - Día Internacional de los Monumentos y Sitios 2026",
+    "date_start": "2026-04-18",
     "date_end": null,
     "time_start": null,
-    "location": null,
-    "district": null,
-    "category": "other",
-    "price": null,
-    "price_value": null,
-    "description": "Children's workshops offering fun and educational Saturday activities for kids.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Visit València",
-        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
-        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
-      }
-    ],
-    "first_seen": "2026-04-02T22:40:25.215608+00:00",
-    "last_updated": "2026-04-02T22:40:25.215608+00:00"
-  },
-  {
-    "id": 205,
-    "fingerprint": "2026-04-24__valencia__feria-andaluza-valencia-2026",
-    "title": "Feria Andaluza de Valencia 2026",
-    "date_start": "2026-04-24",
-    "date_end": "2026-05-03",
-    "time_start": null,
-    "location": "Valencia",
-    "district": null,
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Major Andalusian festival celebration in Valencia bringing the culture and traditions of southern Spain to the city.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-03T09:07:48.342509+00:00"
-  },
-  {
-    "id": 206,
-    "fingerprint": "2026-04-24__canals__feria-renacentista-canals",
-    "title": "Feria Renacentista de Canals",
-    "date_start": "2026-04-24",
-    "date_end": "2026-04-26",
-    "time_start": null,
-    "location": "Canals",
-    "district": null,
-    "category": "market",
-    "price": null,
-    "price_value": null,
-    "description": "Renaissance fair in Canals recreating historical atmosphere with period markets and activities.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-03T09:07:48.342509+00:00"
-  },
-  {
-    "id": 215,
-    "fingerprint": "2026-04-24__jardin del turia ent__feria-andaluza-valencia-2026",
-    "title": "Feria Andaluza de Valencia 2026",
-    "date_start": "2026-04-24",
-    "date_end": "2026-05-03",
-    "time_start": null,
-    "location": "Jardín del Turia, entre el Puente de la Exposición y el Puente de las Flores",
-    "district": "Turia",
-    "category": "festival",
-    "price": "Gratis",
-    "price_value": 0.0,
-    "description": "The 32nd edition of the Andalusian Fair in Valencia transforms the Turia Gardens into a celebration of southern Spanish culture with casetas, sevillanas dancing, live performances, and traditional gastronomy over ten days.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-03T09:07:48.342509+00:00"
-  },
-  {
-    "id": 304,
-    "fingerprint": "2026-04-24__unknown__feria-andaluza-valencia-2026",
-    "title": "Feria Andaluza de Valencia 2026",
-    "date_start": "2026-04-24",
-    "date_end": "2026-05-03",
-    "time_start": null,
-    "location": null,
-    "district": null,
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "The great Andalusian fair returns to Valencia, bringing southern Spanish festivities and culture to the city for ten days.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-06T07:59:45.705058+00:00"
-      }
-    ],
-    "first_seen": "2026-04-06T07:59:45.705058+00:00",
-    "last_updated": "2026-04-06T07:59:45.705058+00:00"
-  },
-  {
-    "id": 323,
-    "fingerprint": "2026-04-24__calle burriana nº30 __secret-market-valencia-edicion",
-    "title": "Secret Market Valencia - Edición Primavera 2026",
-    "date_start": "2026-04-24",
-    "date_end": "2026-05-03",
-    "time_start": "10:00",
-    "location": "Calle Burriana nº30, Valencia",
-    "district": "Ruzafa",
-    "category": "market",
-    "price": "Gratis",
-    "price_value": 0.0,
-    "description": "Valencia's largest ephemeral fashion pop-up returns with over 25,000 items from top brands with discounts up to 70%. Features clothing, footwear, accessories for men, women and children, plus home décor section.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 375,
-    "fingerprint": "2026-04-24__torreta de canals ca__feria-turistica-calixto-iii",
-    "title": "Feria Turística Calixto III",
-    "date_start": "2026-04-24",
-    "date_end": "2026-04-26",
-    "time_start": "17:30",
-    "location": "Torreta de Canals, Canals",
-    "district": null,
-    "category": "festival",
-    "price": "Gratis",
-    "price_value": 0.0,
-    "description": "A three-day Renaissance fair featuring historical reenactments, falconry exhibitions, theatrical performances, artisan market, traditional gastronomy, and guided tours of the Torreón and Oratory, celebrating the birthplace of Pope Calixto III (Alfonso de Borja).",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/2026/04/11/feria-calixto-iii-canals-2026/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
-      }
-    ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
-  },
-  {
-    "id": 376,
-    "fingerprint": "2026-04-24__la torreta de canals__feria-turistica-calixto-iii",
-    "title": "Feria Turística Calixto III",
-    "date_start": "2026-04-24",
-    "date_end": "2026-04-26",
-    "time_start": "17:30",
-    "location": "La Torreta de Canals",
-    "district": "Canals",
-    "category": "festival",
-    "price": "Gratis",
-    "price_value": 0.0,
-    "description": "A three-day Renaissance festival celebrating the birthplace of Pope Calixto III (Alfonso de Borja) featuring historical reenactments, falconry exhibitions, theatrical scenes, crafts market, music, and guided tours of the Torreón.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/2026/04/11/feria-calixto-iii-canals-2026/#respond",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
-      }
-    ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
-  },
-  {
-    "id": 371,
-    "fingerprint": "2026-04-25__alcoy__fiestas-moros-cristianos-alcoy",
-    "title": "Fiestas de Moros y Cristianos de Alcoy 2026",
-    "date_start": "2026-04-25",
-    "date_end": "2026-04-27",
-    "time_start": null,
-    "location": "Alcoy",
-    "district": null,
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "The Moors and Christians Festival of Alcoy 2026 honors Sant Jordi with three days of parades, processions, artillery demonstrations, and cultural celebrations declared of International Tourist Interest since 1980.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/2026/04/11/fiestas-moros-y-cristianos-alcoy-2026/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
-      }
-    ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
-  },
-  {
-    "id": 55,
-    "fingerprint": "2026-04-29__unknown__61ª-feria-libro-valencia",
-    "title": "61ª Feria del Libro de València",
-    "date_start": "2026-04-29",
-    "date_end": "2026-05-09",
-    "time_start": null,
-    "location": null,
-    "district": null,
-    "category": "market",
-    "price": null,
-    "price_value": null,
-    "description": "The 61st Valencia Book Fair featuring publishers, authors, and literary activities.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Visit València",
-        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
-        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
-      }
-    ],
-    "first_seen": "2026-04-02T22:40:25.215608+00:00",
-    "last_updated": "2026-04-02T22:40:25.215608+00:00"
-  },
-  {
-    "id": 207,
-    "fingerprint": "2026-04-30__mercado de tapineria__urban-trend-tendencias-cultura",
-    "title": "Urban Trend · Tendencias, Cultura y actividades urbanas",
-    "date_start": "2026-04-30",
-    "date_end": "2026-05-03",
-    "time_start": null,
-    "location": "Mercado de Tapineria, Calle Tapineria 15-17",
-    "district": "Centro",
-    "category": "market",
-    "price": null,
-    "price_value": null,
-    "description": "Urban trends market featuring culture and urban activities at Mercado de Tapineria.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-03T09:07:48.342509+00:00"
-  },
-  {
-    "id": 216,
-    "fingerprint": "2026-04-30__cofrentes desde plaz__mercado-medieval-cofrentes-2026",
-    "title": "Mercado Medieval de Cofrentes 2026",
-    "date_start": "2026-04-30",
-    "date_end": "2026-05-03",
-    "time_start": "17:00",
-    "location": "Cofrentes, desde Plaza Valle hasta el castillo de Cofrentes",
-    "district": null,
-    "category": "market",
-    "price": "Gratis",
-    "price_value": 0.0,
-    "description": "A large medieval market in Cofrentes featuring jousting tournaments on horseback, over 120 free activities including street performers, artisan stalls, puppet theatre, and medieval reenactments over four days coinciding with La Maderada festival.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-03T09:07:48.342509+00:00"
-  },
-  {
-    "id": 218,
-    "fingerprint": "2026-04-30__cofrentes  plaza val__mercado-medieval-cofrentes-2026",
-    "title": "Mercado Medieval de Cofrentes 2026",
-    "date_start": "2026-04-30",
-    "date_end": "2026-05-03",
-    "time_start": "17:00",
-    "location": "Cofrentes - Plaza Valle hasta las faldas del castillo",
-    "district": null,
-    "category": "market",
-    "price": "Gratis",
-    "price_value": 0.0,
-    "description": "A large medieval market in Cofrentes featuring jousting tournaments with horses, over 120 free activities including musicians, jugglers, craftsmen, medieval camps, puppet theater, and demonstrations of traditional trades across four days.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-03T09:07:48.342509+00:00"
-  },
-  {
-    "id": 261,
-    "fingerprint": "2026-04-30__plaza valle hasta la__mercado-medieval-cofrentes-2026",
-    "title": "Mercado Medieval de Cofrentes 2026",
-    "date_start": "2026-04-30",
-    "date_end": "2026-05-03",
-    "time_start": "17:00",
-    "location": "Plaza Valle hasta las faldas del castillo de Cofrentes",
-    "district": "Cofrentes",
-    "category": "market",
-    "price": "Gratis",
-    "price_value": 0.0,
-    "description": "A four-day medieval market in Cofrentes featuring over 120 free activities including jousting tournaments, artisan stalls, street performers, puppet theatre, and medieval reenactments.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-04T07:14:44.723732+00:00"
-      }
-    ],
-    "first_seen": "2026-04-04T07:14:44.723732+00:00",
-    "last_updated": "2026-04-04T07:14:44.723732+00:00"
-  },
-  {
-    "id": 295,
-    "fingerprint": "2026-04-30__espai baladre carrer__exposicion-modelismo-ferroviario-con",
-    "title": "Exposición de modelismo ferroviario con trenes en miniatura",
-    "date_start": "2026-04-30",
-    "date_end": "2026-05-03",
-    "time_start": "17:00",
-    "location": "Espai Baladre, carrer de la Rioja nº10, playa de Gandia",
-    "district": "Gandia",
+    "location": "La Lonja de los Mercaderes, Las Torres de Serranos, Las Torres de Quart",
+    "district": "Valencia",
     "category": "exhibition",
     "price": "Gratis",
     "price_value": 0.0,
-    "description": "Free model railway exhibition featuring H0 scale trains (1:87) running through detailed miniature landscapes. Organized by Club Ibérico de Módulos H0 and Associació Tren Alcoi-Gandia during the May 1st long weekend.",
+    "description": "Free entry to three major historical monuments in Valencia on April 18, 2026 as part of International Monument and Site Day celebrations.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-06T07:59:45.705058+00:00"
+        "url": "https://www.valenciabonita.es/2026/04/16/dia-internacional-de-los-monumentos-y-sitios-2026-valencia/",
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-06T07:59:45.705058+00:00",
-    "last_updated": "2026-04-06T07:59:45.705058+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 321,
-    "fingerprint": "2026-04-30__museo historico mili__the-legacy-clicks-hacen",
-    "title": "THE LEGACY: Los clicks hacen historia",
-    "date_start": "2026-04-30",
-    "date_end": "2026-09-03",
-    "time_start": "10:00",
-    "location": "Museo Histórico Militar de Valencia, calle General Gil Dolz nº6",
-    "district": "Alameda",
-    "category": "exhibition",
-    "price": "Gratis",
-    "price_value": 0.0,
-    "description": "Free exhibition featuring 6 large Playmobil dioramas depicting important historical episodes of Spanish contributions to American history, including the discovery of Florida and California missions.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-06T07:59:45.705058+00:00"
-      }
-    ],
-    "first_seen": "2026-04-06T07:59:45.705058+00:00",
-    "last_updated": "2026-04-06T07:59:45.705058+00:00"
-  },
-  {
-    "id": 220,
-    "fingerprint": "2026-05-01__plaza del convent pe__4a-fira-vi-natural",
-    "title": "4a Fira del Vi Natural de Pego",
-    "date_start": "2026-05-01",
-    "date_end": null,
-    "time_start": "11:00",
-    "location": "Plaza del Convent, Pego",
-    "district": null,
-    "category": "festival",
-    "price": "€10",
-    "price_value": 10.0,
-    "description": "Fourth edition of the natural wine fair in Pego featuring over 30 producers, local gastronomy, live music, and artisan products. Entry includes a wine glass for tastings.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.entrapolis.com/4a-fira-del-vi-natural-de-pego-1-de-mayo-de-2026",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      },
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.entrapolis.com/4a-fira-del-vi-natural-de-pego",
-        "scraped_at": "2026-04-04T07:14:44.723732+00:00"
-      },
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.entrapolis.com/evento/4a-fira-del-vi-natural-de-pego",
-        "scraped_at": "2026-04-04T07:14:44.723732+00:00"
-      },
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.entrapolis.com",
-        "scraped_at": "2026-04-06T07:59:45.705058+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-06T07:59:45.705058+00:00"
-  },
-  {
-    "id": 294,
-    "fingerprint": "2026-05-01__plaza mayor chelva__quesalia-2026-feria-queso",
-    "title": "Quesalia 2026: la Feria del Queso y Maridaje de Chelva",
-    "date_start": "2026-05-01",
-    "date_end": "2026-05-03",
-    "time_start": null,
-    "location": "Plaza Mayor, Chelva",
-    "district": null,
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "The 5th edition of the Cheese and Pairing Fair in Chelva featuring artisan cheese market, wine tastings, cooking demonstrations, guided tours, children's workshops, and live music over a three-day weekend.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-06T07:59:45.705058+00:00"
-      }
-    ],
-    "first_seen": "2026-04-06T07:59:45.705058+00:00",
-    "last_updated": "2026-04-06T07:59:45.705058+00:00"
-  },
-  {
-    "id": 217,
-    "fingerprint": "2026-05-02__plaza de espana cofr__romeria-hasta-rio-cabriel",
-    "title": "Romería hasta el río Cabriel - La Maderada",
-    "date_start": "2026-05-02",
-    "date_end": null,
-    "time_start": "09:00",
-    "location": "Plaza de España, Cofrentes",
-    "district": null,
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional pilgrimage to the Cabriel River as part of La Maderada festivities, featuring participants dressed as traditional timber workers, music, popular breakfast, and the blessing of rafts in honor of ancestors.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-03T09:07:48.342509+00:00"
-  },
-  {
-    "id": 219,
-    "fingerprint": "2026-05-02__plaza de espana cofr__romeria-homenaje-rio-cabriel",
-    "title": "Romería y homenaje al río Cabriel - La Maderada",
-    "date_start": "2026-05-02",
-    "date_end": null,
-    "time_start": "09:00",
-    "location": "Plaza de España, Cofrentes - Río Cabriel",
-    "district": null,
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional pilgrimage to the Cabriel River as part of La Maderada festivities, a UNESCO Intangible Cultural Heritage celebration. Participants dress as timber rafters, enjoy traditional food and watch wooden rafts launched into the river.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-03T09:07:48.342509+00:00"
-      }
-    ],
-    "first_seen": "2026-04-03T09:07:48.342509+00:00",
-    "last_updated": "2026-04-03T09:07:48.342509+00:00"
-  },
-  {
-    "id": 324,
-    "fingerprint": "2026-05-09__puerto de catarroja__exhibicion-vela-latina-as",
-    "title": "Exhibición de vela latina - As. de Peixcadors de Catarroja",
-    "date_start": "2026-05-09",
-    "date_end": null,
-    "time_start": "12:00",
-    "location": "Puerto de Catarroja",
-    "district": "Catarroja",
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional Latin sail exhibition departing from the Port of Catarroja, organized by the Fishermen's Association of Catarroja.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 370,
+    "id": 26,
     "fingerprint": "2026-05-09__plaza pio xii benage__xvii-feria-pueblos-amigos",
     "title": "XVII Feria de los Pueblos Amigos de Benagéber",
     "date_start": "2026-05-09",
@@ -1633,51 +653,27 @@
     "location": "Plaza Pío XII, Benagéber",
     "district": null,
     "category": "festival",
-    "price": "Gratis (paella: €7)",
+    "price": "Gratis (paella 7€)",
     "price_value": 0.0,
-    "description": "The XVII Festival of Friend Towns of Benagéber returns with music, gastronomy, and activities featuring casetas from various municipalities, cultural activities, and entertainment for all ages.",
+    "description": "XVII Fair of Friendly Peoples featuring music, gastronomy, and activities from various municipalities. The event includes contests, culinary tastings, children's activities, live performances, and a popular paella meal.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/14/feria-de-los-pueblos-amigos-de-benageber-2026/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       },
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/14/feria-de-los-pueblos-amigos-de-benageber-2026/#respond",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 325,
-    "fingerprint": "2026-05-16__parque natural de la__exhibicion-vela-latina-as",
-    "title": "Exhibición de vela latina - As. Siglo XXI de Valencia",
-    "date_start": "2026-05-16",
-    "date_end": null,
-    "time_start": "12:00",
-    "location": "Parque Natural de la Albufera",
-    "district": "Albufera",
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional Latin sail exhibition departing from the Albufera Natural Park, organized by the Siglo XXI Association of Valencia.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 364,
+    "id": 20,
     "fingerprint": "2026-05-16__la font de la figuer__mostra-vins-terres-dels",
     "title": "La Mostra de Vins Terres dels Alforins 2026",
     "date_start": "2026-05-16",
@@ -1685,49 +681,25 @@
     "time_start": "11:00",
     "location": "La Font de la Figuera",
     "district": null,
-    "category": "festival",
+    "category": "market",
     "price": "€15-20",
     "price_value": 15.0,
-    "description": "The 13th edition of Mostra de Vins Terres dels Alforins brings together 13 wineries in La Font de la Figuera for a day of wine tastings, local gastronomy, live music, and festive atmosphere. Early bird tickets cost €15 (including 5 wine tastings and a silk-screened glass) until May 10, then €20 at the venue.",
+    "description": "The 13th edition of Mostra de Vins Terres dels Alforins brings together 13 wineries for a day of wine tastings, local gastronomy, and live music in the historic center of La Font de la Figuera. Early bird tickets cost €15 and include 5 wine tastings and a commemorative glass.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/16/mostra-de-vins-terres-dels-alforins-2026/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 322,
-    "fingerprint": "2026-05-22__museo historico mili__mercado-coleccionismo-playmobil",
-    "title": "Mercado de coleccionismo Playmobil",
-    "date_start": "2026-05-22",
-    "date_end": "2026-05-24",
-    "time_start": "16:00",
-    "location": "Museo Histórico Militar de Valencia, calle General Gil Dolz nº6",
-    "district": "Alameda",
-    "category": "market",
-    "price": null,
-    "price_value": null,
-    "description": "Playmobil collectors market offering rare pieces, discontinued references and other collectibles for Playmobil enthusiasts.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-06T07:59:45.705058+00:00"
-      }
-    ],
-    "first_seen": "2026-04-06T07:59:45.705058+00:00",
-    "last_updated": "2026-04-06T07:59:45.705058+00:00"
-  },
-  {
-    "id": 366,
-    "fingerprint": "2026-05-22__plaza doctor cajal c__vinachest-2026-feria-vino",
-    "title": "Vinachest 2026 - Feria del Vino de Cheste",
+    "id": 22,
+    "fingerprint": "2026-05-22__plaza doctor cajal c__vinachest-2026",
+    "title": "Vinachest 2026",
     "date_start": "2026-05-22",
     "date_end": "2026-05-24",
     "time_start": null,
@@ -1736,352 +708,45 @@
     "category": "festival",
     "price": "Gratis",
     "price_value": 0.0,
-    "description": "Wine fair featuring local wineries, gastronomic offerings, live music, and family activities showcasing the moscatel variety and local commerce in Cheste.",
+    "description": "Wine fair featuring local wineries, gastronomic food trucks, live music, and family activities celebrating local wines including Moscatel variety.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
         "url": "https://www.valenciabonita.es/2026/04/15/feria-del-vino-de-cheste-2026/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
+      },
+      {
+        "name": "Valencia Bonita",
+        "url": "https://www.valenciabonita.es/2026/04/15/feria-del-vino-de-cheste-2026/#respond",
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   },
   {
-    "id": 380,
-    "fingerprint": "2026-05-22__gran carpa junto a l__alegria-bajo-nueva-luz",
-    "title": "Alegría – Bajo Una Nueva Luz (Cirque du Soleil)",
-    "date_start": "2026-05-22",
-    "date_end": "2026-06-14",
+    "id": 1,
+    "fingerprint": "2026-05-29__rafelguaraf__iii-fira-tomaca",
+    "title": "III Fira de la Tomaca",
+    "date_start": "2026-05-29",
+    "date_end": "2026-05-31",
     "time_start": null,
-    "location": "Gran carpa junto a la antigua Estación del Grao, Valencia",
+    "location": "Rafelguaraf",
     "district": null,
-    "category": "circus",
+    "category": "market",
     "price": null,
     "price_value": null,
-    "description": "Cirque du Soleil returns to Valencia with Alegría – Bajo Una Nueva Luz, a contemporary reinterpretation of their iconic 1994 production featuring 54 international artists, live music, and spectacular acrobatics.",
+    "description": "The third edition of the Tomato Fair in Rafelguaraf features gastronomy, culture, and live music celebrating Valencia's certified tomatoes and local agricultural products.",
     "image_url": null,
     "sources": [
       {
         "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/2026/04/16/circo-del-sol-valencia-2026/",
-        "scraped_at": "2026-04-16T21:30:41.722080+00:00"
+        "url": "https://www.valenciabonita.es/2026/04/17/fira-de-la-tomaca-rafelguaraf-2026/",
+        "scraped_at": "2026-04-17T08:45:58.215794+00:00"
       }
     ],
-    "first_seen": "2026-04-16T21:30:41.722080+00:00",
-    "last_updated": "2026-04-16T21:30:41.722080+00:00"
-  },
-  {
-    "id": 326,
-    "fingerprint": "2026-05-30__mata del rey__exhibicion-vela-latina-as",
-    "title": "Exhibición de vela latina - As. Vela Latina de Silla",
-    "date_start": "2026-05-30",
-    "date_end": null,
-    "time_start": "12:00",
-    "location": "Mata del Rey",
-    "district": "Silla",
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional Latin sail exhibition departing from Mata del Rey, organized by the Latin Sail Association of Silla.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 327,
-    "fingerprint": "2026-06-13__puerto de catarroja__exhibicion-vela-latina-as",
-    "title": "Exhibición de vela latina - As. de Peixcadors de Catarroja",
-    "date_start": "2026-06-13",
-    "date_end": null,
-    "time_start": "12:00",
-    "location": "Puerto de Catarroja",
-    "district": "Catarroja",
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional Latin sail exhibition departing from the Port of Catarroja, organized by the Fishermen's Association of Catarroja.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 328,
-    "fingerprint": "2026-06-20__parque natural de la__exhibicion-vela-latina-as",
-    "title": "Exhibición de vela latina - As. El Palmar",
-    "date_start": "2026-06-20",
-    "date_end": null,
-    "time_start": "12:00",
-    "location": "Parque Natural de la Albufera",
-    "district": "El Palmar",
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional Latin sail exhibition departing from the Albufera Natural Park, organized by the El Palmar Association.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 329,
-    "fingerprint": "2026-06-27__mata del rey__exhibicion-vela-latina-as",
-    "title": "Exhibición de vela latina - As. Vela Latina de Silla",
-    "date_start": "2026-06-27",
-    "date_end": null,
-    "time_start": "12:00",
-    "location": "Mata del Rey",
-    "district": "Silla",
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional Latin sail exhibition departing from Mata del Rey, organized by the Latin Sail Association of Silla.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 54,
-    "fingerprint": "2026-07-01__jardines de viveros__conciertos-viveros-gran-feria",
-    "title": "Conciertos de Viveros - Gran Feria de València 2026",
-    "date_start": "2026-07-01",
-    "date_end": "2026-07-24",
-    "time_start": null,
-    "location": "Jardines de Viveros",
-    "district": "Pla del Real",
-    "category": "concert",
-    "price": null,
-    "price_value": null,
-    "description": "Summer concert series at Viveros Gardens as part of Valencia's Gran Feria festivities.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Visit València",
-        "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
-        "scraped_at": "2026-04-02T22:40:25.215608+00:00"
-      }
-    ],
-    "first_seen": "2026-04-02T22:40:25.215608+00:00",
-    "last_updated": "2026-04-02T22:40:25.215608+00:00"
-  },
-  {
-    "id": 330,
-    "fingerprint": "2026-07-04__port de sollana__exhibicion-vela-latina-as",
-    "title": "Exhibición de vela latina - As. Sollana",
-    "date_start": "2026-07-04",
-    "date_end": null,
-    "time_start": "12:00",
-    "location": "Port de Sollana",
-    "district": "Sollana",
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional Latin sail exhibition departing from the Port of Sollana, organized by the Sollana Association.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 331,
-    "fingerprint": "2026-07-11__puerto de catarroja__exhibicion-vela-latina-as",
-    "title": "Exhibición de vela latina - As. de Peixcadors de Catarroja",
-    "date_start": "2026-07-11",
-    "date_end": null,
-    "time_start": "12:00",
-    "location": "Puerto de Catarroja",
-    "district": "Catarroja",
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional Latin sail exhibition departing from the Port of Catarroja, organized by the Fishermen's Association of Catarroja.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 332,
-    "fingerprint": "2026-07-18__mata del rey__exhibicion-vela-latina-as",
-    "title": "Exhibición de vela latina - As. Vela Latina de Silla",
-    "date_start": "2026-07-18",
-    "date_end": null,
-    "time_start": "12:00",
-    "location": "Mata del Rey",
-    "district": "Silla",
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional Latin sail exhibition departing from Mata del Rey, organized by the Latin Sail Association of Silla.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 333,
-    "fingerprint": "2026-07-25__parque natural de la__exhibicion-vela-latina-as",
-    "title": "Exhibición de vela latina - As. Vela Latina de El Palmar",
-    "date_start": "2026-07-25",
-    "date_end": null,
-    "time_start": "12:00",
-    "location": "Parque Natural de la Albufera",
-    "district": "El Palmar",
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional Latin sail exhibition departing from the Albufera Natural Park, organized by the Latin Sail Association of El Palmar.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 334,
-    "fingerprint": "2026-08-01__mata del rey__exhibicion-vela-latina-proba",
-    "title": "Exhibición de vela latina - Proba del Crist",
-    "date_start": "2026-08-01",
-    "date_end": null,
-    "time_start": "12:00",
-    "location": "Mata del Rey",
-    "district": "Silla",
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional Latin sail exhibition 'Proba del Crist' departing from Mata del Rey, organized by the Latin Sail Association of Silla.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 335,
-    "fingerprint": "2026-09-13__puerto de catarroja__exhibicion-vela-latina-proba",
-    "title": "Exhibición de vela latina - Proba de les Canyes",
-    "date_start": "2026-09-13",
-    "date_end": null,
-    "time_start": "12:00",
-    "location": "Puerto de Catarroja",
-    "district": "Catarroja",
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional Latin sail exhibition 'Proba de les Canyes' in honor of the Sant Miquel festival, departing from the Port of Catarroja.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 336,
-    "fingerprint": "2026-09-19__parque natural de la__exhibicion-vela-latina-as",
-    "title": "Exhibición de vela latina - As. Tradicional de Silla",
-    "date_start": "2026-09-19",
-    "date_end": null,
-    "time_start": "12:00",
-    "location": "Parque Natural de la Albufera",
-    "district": "Silla",
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional Latin sail exhibition departing from the Albufera Natural Park, organized by the Traditional Association of Silla.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
-  },
-  {
-    "id": 337,
-    "fingerprint": "2026-10-03__parque natural de la__exhibicion-vela-latina-federacion",
-    "title": "Exhibición de vela latina - Federación Cultural de Vela Latina",
-    "date_start": "2026-10-03",
-    "date_end": null,
-    "time_start": null,
-    "location": "Parque Natural de la Albufera",
-    "district": "Albufera",
-    "category": "festival",
-    "price": null,
-    "price_value": null,
-    "description": "Traditional Latin sail exhibition departing from the Albufera Natural Park, organized by the Cultural Federation of Latin Sail.",
-    "image_url": null,
-    "sources": [
-      {
-        "name": "Valencia Bonita",
-        "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
-        "scraped_at": "2026-04-07T07:46:09.097581+00:00"
-      }
-    ],
-    "first_seen": "2026-04-07T07:46:09.097581+00:00",
-    "last_updated": "2026-04-07T07:46:09.097581+00:00"
+    "first_seen": "2026-04-17T08:45:58.215794+00:00",
+    "last_updated": "2026-04-17T08:45:58.215794+00:00"
   }
 ]
