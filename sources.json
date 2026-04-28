@@ -1,16 +1,5 @@
 [
   {
-    "id": "valencia_es",
-    "name": "Ajuntament de València",
-    "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
-    "type": "js",
-    "language": "es",
-    "enabled": true,
-    "follow_links": true,
-    "wait_for": ".agenda-item, .event-item, article",
-    "notes": "JS-rendered Liferay portal — events load via AJAX"
-  },
-  {
     "id": "valenciabonita",
     "name": "Valencia Bonita",
     "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
@@ -21,15 +10,76 @@
     "notes": "Blog format — follow recent article links to extract events from inside articles"
   },
   {
+    "id": "valencia_es",
+    "name": "Ajuntament de València",
+    "url": "https://www.valencia.es/cas/agenda-de-la-ciudad",
+    "type": "js",
+    "language": "es",
+    "enabled": false,
+    "follow_links": true,
+    "wait_for": ".agenda-item, .event-item, article",
+    "notes": "JS-rendered Liferay portal — disabled until API approach is implemented"
+  },
+  {
     "id": "visit_valencia",
     "name": "Visit València",
     "url": "https://www.visitvalencia.com/agenda-valencia",
     "type": "js",
     "language": "es",
-    "enabled": true,
+    "enabled": false,
     "follow_links": true,
     "wait_for": ".view-content, .event-teaser, article",
-    "notes": "JS-rendered Drupal site — events load dynamically"
+    "notes": "JS-rendered Drupal — disabled until API approach is implemented"
+  },
+  {
+    "id": "meetup_valencia",
+    "name": "Meetup Valencia",
+    "url": "https://www.meetup.com/find/es--valencia/",
+    "type": "js",
+    "language": "en",
+    "enabled": true,
+    "follow_links": true,
+    "notes": "Community events — language exchanges, outdoor activities, expat meetups, social gatherings"
+  },
+  {
+    "id": "lasprovincias",
+    "name": "Las Provincias",
+    "url": "https://www.lasprovincias.es/ocio/agenda/",
+    "type": "html",
+    "language": "es",
+    "enabled": true,
+    "follow_links": true,
+    "notes": "Major Valencia newspaper agenda section"
+  },
+  {
+    "id": "levante_emv",
+    "name": "Levante EMV",
+    "url": "https://www.levante-emv.com/ocio/agenda-valencia/",
+    "type": "html",
+    "language": "es",
+    "enabled": true,
+    "follow_links": true,
+    "notes": "Leading Valencia newspaper, founded 1872"
+  },
+  {
+    "id": "valencia_extra",
+    "name": "Valencia Extra",
+    "url": "https://valenciaextra.com/es/agenda/",
+    "type": "html",
+    "language": "es",
+    "enabled": true,
+    "follow_links": true,
+    "notes": "Local news and events site"
+  },
+  {
+    "id": "comollegar",
+    "name": "ComoLlegar Valencia",
+    "url": "https://www.comollegar.es/valencia/agenda",
+    "type": "html",
+    "language": "es",
+    "enabled": true,
+    "follow_links": false,
+    "notes": "Simple HTML agenda, good for markets and local fairs"
   },
   {
     "id": "la_guia_del_ocio",
@@ -39,6 +89,6 @@
     "language": "es",
     "enabled": false,
     "follow_links": false,
-    "notes": "DNS failing, disabled pending investigation"
+    "notes": "DNS failing as of first run, disabled pending investigation"
   }
 ]
