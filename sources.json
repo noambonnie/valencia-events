@@ -47,7 +47,7 @@
     "url": "https://www.lasprovincias.es/ocio/agenda/",
     "type": "html",
     "language": "es",
-    "enabled": true,
+    "enabled": false,
     "follow_links": true,
     "notes": "Major Valencia newspaper agenda section"
   },
@@ -67,7 +67,7 @@
     "url": "https://valenciaextra.com/es/agenda/",
     "type": "html",
     "language": "es",
-    "enabled": true,
+    "enabled": false,
     "follow_links": true,
     "notes": "Local news and events site"
   },
@@ -77,7 +77,7 @@
     "url": "https://www.comollegar.es/valencia/agenda",
     "type": "html",
     "language": "es",
-    "enabled": true,
+    "enabled": false,
     "follow_links": false,
     "notes": "Simple HTML agenda, good for markets and local fairs"
   },

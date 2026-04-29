@@ -10,11 +10,16 @@ HEADERS = {
     )
 }
 
-def fetch_html(url: str) -> str:
-    """Fetch a plain HTML page. Fast, no browser needed."""
+def fetch_html(url: str) -> str | None:
+    """Fetch a plain HTML page. Returns None on 4xx/5xx instead of raising."""
     with httpx.Client(headers=HEADERS, follow_redirects=True, timeout=30) as client:
         resp = client.get(url)
-        resp.raise_for_status()
+        if resp.status_code == 404:
+            print(f"  Warning: 404 Not Found — {url} (skipping)")
+            return None
+        if resp.status_code >= 400:
+            print(f"  Warning: HTTP {resp.status_code} — {url} (skipping)")
+            return None
         return resp.text
 
 def fetch_js(url: str, wait_for_selector: str = None) -> str:
