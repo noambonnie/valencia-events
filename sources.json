@@ -57,7 +57,7 @@
     "url": "https://www.levante-emv.com/ocio/agenda-valencia/",
     "type": "html",
     "language": "es",
-    "enabled": true,
+    "enabled": false,
     "follow_links": true,
     "notes": "Leading Valencia newspaper, founded 1872"
   },
