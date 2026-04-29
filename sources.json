@@ -1,5 +1,25 @@
 [
   {
+    "id": "hoy_valencia",
+    "name": "Hoy Valencia",
+    "url": "https://www.hoyvalencia.app/que-hacer-en-valencia/",
+    "type": "html",
+    "language": "es",
+    "enabled": true,
+    "follow_links": true,
+    "notes": "Dedicated Valencia events app — concerts, theatre, exhibitions, jazz, gastronomy"
+  },
+  {
+    "id": "mi_agenda_valencia",
+    "name": "Mi Agenda Valencia",
+    "url": "https://www.miagendavalencia.com/",
+    "type": "html",
+    "language": "es",
+    "enabled": true,
+    "follow_links": true,
+    "notes": "WordPress cultural agenda — museums, cultural centres, music venues, updated daily"
+  },
+  {
     "id": "valenciabonita",
     "name": "Valencia Bonita",
     "url": "https://www.valenciabonita.es/category/planes-y-eventos/",
